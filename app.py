@@ -13,7 +13,7 @@ if "index" not in st.session_state:
     st.session_state.respostes_usuari = []
     st.session_state.iniciat = False
     st.session_state.preguntes_seleccionades = []
-    st.session_state.mostra_solucio = False  # nova variable d’estat
+    st.session_state.mostra_solucio = False  # controla si mostrar solució
 
 # Pantalla inicial
 if not st.session_state.iniciat:
@@ -35,9 +35,12 @@ if st.session_state.iniciat:
         st.markdown(f"### {actual['pregunta']}")
         resposta = st.radio("Tria una resposta:", actual["opcions"], key=st.session_state.index)
 
-        if not st.session_state.mostra_solucio:
-            if st.button("Comprovar resposta"):
-                correcta = actual["resposta"]
+        # Botó únic
+        if st.button("Comprovar / Següent"):
+            correcta = actual["resposta"]
+
+            if not st.session_state.mostra_solucio:
+                # Primera vegada: mostra la solució
                 st.session_state.respostes_usuari.append((actual["pregunta"], resposta, correcta))
                 if resposta == correcta:
                     st.session_state.encerts += 1
@@ -45,10 +48,10 @@ if st.session_state.iniciat:
                 else:
                     st.error(f"❌ Incorrecte. La resposta correcta era: `{correcta}`")
                 st.session_state.mostra_solucio = True  # activem la solució
-        else:
-            if st.button("Següent pregunta ➡️"):
+            else:
+                # Ja hem vist la solució → passem a la següent pregunta
                 st.session_state.index += 1
-                st.session_state.mostra_solucio = False  # reset per la següent pregunta
+                st.session_state.mostra_solucio = False  # reset per la següent
 
     else:
         # Test completat
