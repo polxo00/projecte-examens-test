@@ -13,8 +13,9 @@ if "index" not in st.session_state:
     st.session_state.respostes_usuari = []
     st.session_state.iniciat = False
     st.session_state.preguntes_seleccionades = []
+    st.session_state.mostra_solucio = False  # nova variable d’estat
 
-# Pantalla inicial: tria nombre de preguntes
+# Pantalla inicial
 if not st.session_state.iniciat:
     n_total = len(totes_preguntes)
     n_test = st.slider("Nombre de preguntes del test:", 1, n_total, min(10, n_total))
@@ -25,7 +26,7 @@ if not st.session_state.iniciat:
 # Test en curs
 if st.session_state.iniciat:
     n_preguntes = len(st.session_state.preguntes_seleccionades)
-    
+
     if st.session_state.index < n_preguntes:
         actual = st.session_state.preguntes_seleccionades[st.session_state.index]
 
@@ -34,23 +35,25 @@ if st.session_state.iniciat:
         st.markdown(f"### {actual['pregunta']}")
         resposta = st.radio("Tria una resposta:", actual["opcions"], key=st.session_state.index)
 
-        if st.button("Comprovar i passar següent"):
-            correcta = actual["resposta"]
-            st.session_state.respostes_usuari.append((actual["pregunta"], resposta, correcta))
-
-            if resposta == correcta:
-                st.session_state.encerts += 1
-                st.success(f"✅ Correcte! La resposta era: `{correcta}`")
-            else:
-                st.error(f"❌ Incorrecte. La resposta correcta era: `{correcta}`")
-
-            st.session_state.index += 1
+        if not st.session_state.mostra_solucio:
+            if st.button("Comprovar resposta"):
+                correcta = actual["resposta"]
+                st.session_state.respostes_usuari.append((actual["pregunta"], resposta, correcta))
+                if resposta == correcta:
+                    st.session_state.encerts += 1
+                    st.success(f"✅ Correcte! La resposta era: `{correcta}`")
+                else:
+                    st.error(f"❌ Incorrecte. La resposta correcta era: `{correcta}`")
+                st.session_state.mostra_solucio = True  # activem la solució
+        else:
+            if st.button("Següent pregunta ➡️"):
+                st.session_state.index += 1
+                st.session_state.mostra_solucio = False  # reset per la següent pregunta
 
     else:
         # Test completat
         st.success(f"✅ Test completat! Has encertat {st.session_state.encerts} de {n_preguntes}.")
         st.balloons()
-        # Mostra només respostes incorrectes
         incorrectes = [ (preg, resp, corr) for preg, resp, corr in st.session_state.respostes_usuari if resp != corr ]
         if incorrectes:
             st.subheader("Respostes incorrectes:")
@@ -66,3 +69,4 @@ if st.session_state.iniciat:
             st.session_state.respostes_usuari = []
             st.session_state.iniciat = False
             st.session_state.preguntes_seleccionades = []
+            st.session_state.mostra_solucio = False
