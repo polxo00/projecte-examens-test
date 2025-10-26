@@ -28,8 +28,8 @@ if "index" not in st.session_state:
 if not st.session_state.iniciat and totes_preguntes:
     n_total = len(totes_preguntes)
     st.subheader("Configuració del Test")
-    n_test = st.slider("Nombre de preguntes del test:", 1, n_total, min(10, n_total))
-    if st.button("Començar test 🚀", type="primary"):
+    n_test = st.slider("Nombre de preguntes:", 1, n_total, min(10, n_total))
+    if st.button("Començar🚀", type="primary"):
         # Selecciona un subconjunt aleatori de preguntes
         st.session_state.preguntes_seleccionades = random.sample(totes_preguntes, n_test)
         st.session_state.iniciat = True
