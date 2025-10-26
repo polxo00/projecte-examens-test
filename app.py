@@ -3,7 +3,7 @@ import json
 import random
 
 # Títol de l'aplicació
-st.title("Testos cuquis")
+st.title("🧸🎀Testos cuquis🎀🧸")
 st.markdown("---")
 
 # Carrega JSON (Assumeix que 'preguntes.json' conté les dades)
@@ -115,7 +115,7 @@ if st.session_state.iniciat and totes_preguntes:
 
         # Determinació del missatge segons la nota
         if nota_10 >= 9.0:
-            missatge_nota = "🏅 Excel·lent! Això ja ho tens fet. Segueix així!"
+            missatge_nota = "🏅 Excel·lent! Això ja ho tens fet. Segueix així!🥳"
             st.success(f"**Nota final: {nota_10:.2f} / 10** ({percentatge:.0f}%) - {missatge_nota}")
         elif nota_10 >= 7.0:
             missatge_nota = "⭐ Notable! Molt bona nota, està bé per la teva edat"
