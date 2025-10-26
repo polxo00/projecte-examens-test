@@ -3,7 +3,7 @@ import json
 import random
 
 # Títol de l'aplicació
-st.title("Test de Preguntes Interactiu")
+st.title("Testos cuquis")
 st.markdown("---")
 
 # Carrega JSON (Assumeix que 'preguntes.json' conté les dades)
@@ -88,9 +88,9 @@ if st.session_state.iniciat and totes_preguntes:
             _, resp_usuari, resp_correcta = st.session_state.respostes_usuari[-1]
 
             if resp_usuari == resp_correcta:
-                st.success(f"✅ Correcte! La resposta és: `{resp_correcta}`")
+                st.success(f"✅ Correcte ets la millor❤️! La resposta és: `{resp_correcta}`")
             else:
-                st.error(f"❌ Incorrecte. La resposta correcta era: `{resp_correcta}`. La teva resposta ha estat: `{resp_usuari}`")
+                st.error(f"❌ Incorrecte. La resposta correcta era: `{resp_correcta}")
 
             st.write("---")
 
@@ -103,7 +103,30 @@ if st.session_state.iniciat and totes_preguntes:
     else:
         # Test completat
         st.subheader("🎉 Test Finalitzat!")
-        st.success(f"Has encertat {st.session_state.encerts} de {n_preguntes} preguntes.")
+        # Càlcul de la nota
+        if n_preguntes > 0:
+            percentatge = (st.session_state.encerts / n_preguntes) * 100
+            nota_10 = (st.session_state.encerts / n_preguntes) * 10
+        else:
+            percentatge = 0
+            nota_10 = 0
+
+        st.markdown(f"**Resultat:** Has encertat **{st.session_state.encerts}** de **{n_preguntes}** preguntes.")
+
+        # Determinació del missatge segons la nota
+        if nota_10 >= 9.0:
+            missatge_nota = "🏅 Excel·lent! Això ja ho tens fet. Segueix així!"
+            st.success(f"**Nota final: {nota_10:.2f} / 10** ({percentatge:.0f}%) - {missatge_nota}")
+        elif nota_10 >= 7.0:
+            missatge_nota = "⭐ Notable! Molt bona nota, està bé per la teva edat"
+            st.info(f"**Nota final: {nota_10:.2f} / 10** ({percentatge:.0f}%) - {missatge_nota}")
+        elif nota_10 >= 5.0:
+            missatge_nota = "👍 Suficient. Has aprovat el test! Cada cop ho fas millor."
+            st.warning(f"**Nota final: {nota_10:.2f} / 10** ({percentatge:.0f}%) - {missatge_nota}")
+        else:
+            missatge_nota = "😔 Has suspès però la pròxima millor."
+            st.error(f"**Nota final: {nota_10:.2f} / 10** ({percentatge:.0f}%) - {missatge_nota}")
+
         st.balloons()
 
         # Resum d'incorrectes
