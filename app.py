@@ -13,7 +13,7 @@ if "index" not in st.session_state:
     st.session_state.respostes_usuari = []
     st.session_state.iniciat = False
     st.session_state.preguntes_seleccionades = []
-    st.session_state.mostra_solucio = False  # controla si mostrar solució
+    st.session_state.mostra_solucio = False
 
 # Pantalla inicial
 if not st.session_state.iniciat:
@@ -28,30 +28,32 @@ if st.session_state.iniciat:
     n_preguntes = len(st.session_state.preguntes_seleccionades)
 
     if st.session_state.index < n_preguntes:
+        # Bloque dependent de la pregunta actual
         actual = st.session_state.preguntes_seleccionades[st.session_state.index]
 
         st.progress(st.session_state.index / n_preguntes)
         st.write(f"**Pregunta {st.session_state.index + 1} de {n_preguntes}**")
         st.markdown(f"### {actual['pregunta']}")
-        resposta = st.radio("Tria una resposta:", actual["opcions"], key=st.session_state.index)
 
-        # Botó únic
+        # Clau única per radio button per cada pregunta
+        radio_key = f"pregunta_{st.session_state.index}"
+        resposta = st.radio("Tria una resposta:", actual["opcions"], key=radio_key)
+
+        # Botó únic per mostrar solució i passar a següent
         if st.button("Comprovar / Següent"):
             correcta = actual["resposta"]
 
             if not st.session_state.mostra_solucio:
-                # Primera vegada: mostra la solució
                 st.session_state.respostes_usuari.append((actual["pregunta"], resposta, correcta))
                 if resposta == correcta:
                     st.session_state.encerts += 1
                     st.success(f"✅ Correcte! La resposta era: `{correcta}`")
                 else:
                     st.error(f"❌ Incorrecte. La resposta correcta era: `{correcta}`")
-                st.session_state.mostra_solucio = True  # activem la solució
+                st.session_state.mostra_solucio = True
             else:
-                # Ja hem vist la solució → passem a la següent pregunta
                 st.session_state.index += 1
-                st.session_state.mostra_solucio = False  # reset per la següent
+                st.session_state.mostra_solucio = False
 
     else:
         # Test completat
