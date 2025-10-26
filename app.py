@@ -116,16 +116,16 @@ if st.session_state.iniciat and totes_preguntes:
         # Determinació del missatge segons la nota
         if nota_10 >= 9.0:
             missatge_nota = "🏅 Excel·lent! Això ja ho tens fet. Segueix així!🥳"
-            st.success(f"**Nota final: {nota_10:.2f} / 10** ({percentatge:.0f}%) - {missatge_nota}")
+            st.success(f"**Nota final: {nota_10:.2f} ** ({percentatge:.0f}%) - {missatge_nota}")
         elif nota_10 >= 7.0:
             missatge_nota = "⭐ Notable! Molt bona nota, està bé per la teva edat"
-            st.info(f"**Nota final: {nota_10:.2f} / 10** ({percentatge:.0f}%) - {missatge_nota}")
+            st.info(f"**Nota final: {nota_10:.2f} ** ({percentatge:.0f}%) - {missatge_nota}")
         elif nota_10 >= 5.0:
             missatge_nota = "👍 Suficient. Has aprovat el test! Cada cop ho fas millor."
-            st.warning(f"**Nota final: {nota_10:.2f} / 10** ({percentatge:.0f}%) - {missatge_nota}")
+            st.warning(f"**Nota final: {nota_10:.2f} ** ({percentatge:.0f}%) - {missatge_nota}")
         else:
             missatge_nota = "😔 Has suspès però la pròxima millor."
-            st.error(f"**Nota final: {nota_10:.2f} / 10** ({percentatge:.0f}%) - {missatge_nota}")
+            st.error(f"**Nota final: {nota_10:.2f} ** ({percentatge:.0f}%) - {missatge_nota}")
 
         st.balloons()
 
