@@ -90,7 +90,7 @@ if st.session_state.iniciat and totes_preguntes:
             if resp_usuari == resp_correcta:
                 st.success(f"✅ Correcte ets la millor❤️! La resposta és: `{resp_correcta}`")
             else:
-                st.error(f"❌ Incorrecte. La resposta correcta era: `{resp_correcta}")
+                st.error(f"❌ Incorrecte. La resposta correcta era: `{resp_correcta}`")
 
             st.write("---")
 
