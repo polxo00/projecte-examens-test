@@ -1,0 +1,1832 @@
+[
+  {
+    "pregunta": "Tota notificació ha de ser cursada en el termini de:",
+    "opcions": [
+      "5 dies a partir de la data en que l’acte hagi estat dictat.",
+      "10 a partir de la data en que l’acte hagi estat dictat.",
+      "15 a partir de la data en que l’acte hagi estat dictat.",
+      "20 a partir de la data en que l’acte hagi estat dictat."
+    ],
+    "resposta": "10 a partir de la data en que l’acte hagi estat dictat."
+  },
+  {
+    "pregunta": "La població del municipi està integrada",
+    "opcions": [
+      "pel conjunt de persones inscrites al Padró municipal",
+      "pel conjunt de persones que resideixen habitualment al municipi",
+      "pel conjunt de persones que resideixen més de la meitat de l’any al municipi",
+      "pel conjunt de persones que tenen el seu domicili fiscal al municipi"
+    ],
+    "resposta": "pel conjunt de persones inscrites al Padró municipal"
+  },
+  {
+    "pregunta": "Són òrgans que necessàriament existeixen a tots els Ajuntaments",
+    "opcions": [
+      "l’alcalde, el ple i la comissió de suggeriments i reclamacions",
+      "l’alcalde, el ple i la comissió de festes locals",
+      "l’alcalde, el ple i la junta de govern local en els municipis de més de 5.000 habitants",
+      "l’alcalde i la junta de govern local"
+    ],
+    "resposta": "l’alcalde, el ple i la junta de govern local en els municipis de més de 5.000 habitants"
+  },
+  {
+    "pregunta": "Excepcionalment, es podrà atorgar eficàcia retroactiva als actes:",
+    "opcions": [
+      "quan produeixin efectes favorables a l interessat, sempre que els supòsits de fet\nnecessaris existeixin a la data a que es trasllada la retroacció de l’eficàcia de l’acte.",
+      "quan produeixin efectes desfavorables a l’interessat, sempre que els supòsits de fet\nnecessaris no existeixin a la data a que es trasllada la retroacció de l’eficàcia de l’acte.",
+      "quan produeixin efectes desfavorables a l’interessat, sempre que els supòsits de fet\nnecessaris existeixin a la data a que es trasllada la retroacció de l’eficàcia de l’acte.",
+      "cap de les respostes anteriors és correcta."
+    ],
+    "resposta": "quan produeixin efectes favorables a l interessat, sempre que els supòsits de fet\nnecessaris existeixin a la data a que es trasllada la retroacció de l’eficàcia de l’acte."
+  },
+  {
+    "pregunta": "L’eficàcia dels actes restarà demorada quan:",
+    "opcions": [
+      "ho determini el contingut de l’acte.",
+      "estigui supeditada a la notificació o publicació.",
+      "estigui supeditada a aprovació superior.",
+      "totes les respostes anteriors són correctes."
+    ],
+    "resposta": "totes les respostes anteriors són correctes."
+  },
+  {
+    "pregunta": "Les resolucions administratives que vulnerin allò establert en una disposició\nreglamentària:",
+    "opcions": [
+      "són nul·les",
+      "són anul·lables",
+      "són vàlides",
+      "no són susceptibles de recurs."
+    ],
+    "resposta": "són anul·lables"
+  },
+  {
+    "pregunta": "Les sessions ordinàries del ple són",
+    "opcions": [
+      "les que se celebren un cop al mes",
+      "les que se celebren cada any per aprovar el pressupost",
+      "les que se celebren cada any per aprovar els comptes",
+      "les que se celebren amb una periodicitat preestablerta"
+    ],
+    "resposta": "les que se celebren amb una periodicitat preestablerta"
+  },
+  {
+    "pregunta": "La Junta de Govern Local està integrada per",
+    "opcions": [
+      "l’alcalde, el secretari i l’interventor",
+      "l’alcalde, el secretari i l’arquitecte municipal",
+      "l’alcalde, el secretari i el gerent",
+      "l’alcalde i els regidors nomenats per l’alcalde"
+    ],
+    "resposta": "l’alcalde i els regidors nomenats per l’alcalde"
+  },
+  {
+    "pregunta": "En cas de vacant, absència o malaltia de l’alcalde, el substitueix/en",
+    "opcions": [
+      "el president de la Diputació",
+      "el president del consell comarcal",
+      "el secretari",
+      "els tinents d’alcalde"
+    ],
+    "resposta": "els tinents d’alcalde"
+  },
+  {
+    "pregunta": "Les certificacions dels acords adoptats pels òrgans col.legiats de l’Ajuntament\ns’expedeixen",
+    "opcions": [
+      "per l’alcalde",
+      "pel secretari, amb el vistiplau de l’alcalde",
+      "per l’alcalde, amb el vistiplau del secretari",
+      "pel secretari i l’interventor"
+    ],
+    "resposta": "pel secretari, amb el vistiplau de l’alcalde"
+  },
+  {
+    "pregunta": "Quin format ha de tenir l’expedient administratiu?",
+    "opcions": [
+      "en paper",
+      "electrònic",
+      "en paper o electrònic, indistintament",
+      "preferiblement electrònic"
+    ],
+    "resposta": "electrònic"
+  },
+  {
+    "pregunta": "El peu de recurs s’ha d’incloure",
+    "opcions": [
+      "en les certificacions",
+      "en les comunicacions",
+      "en les notificacions",
+      "en els oficis"
+    ],
+    "resposta": "en les notificacions"
+  },
+  {
+    "pregunta": "En els terminis expressats per hores, són hàbils:",
+    "opcions": [
+      "les hores compreses entre les 8 i les 15 hores",
+      "totes les hores del dia",
+      "totes les hores del dia que formin part d’un dia hàbil",
+      "cap de les respostes anteriors és correcta"
+    ],
+    "resposta": "totes les hores del dia que formin part d’un dia hàbil"
+  },
+  {
+    "pregunta": "Quan els terminis s’expressin per dies",
+    "opcions": [
+      "s’entén que són dies naturals",
+      "s’entén que són dies hàbils, excloent-se del còmput els diumenges i festius",
+      "s’entén que són dies naturals, excloent-se del còmput els diumenges i festius",
+      "s’entén que són dies hàbils, excloent-se del còmput els dissabtes, els diumenges i\nels festius"
+    ],
+    "resposta": "s’entén que són dies hàbils, excloent-se del còmput els dissabtes, els diumenges i\nels festius"
+  },
+  {
+    "pregunta": "L’ampliació dels terminis en un procediment administratiu",
+    "opcions": [
+      "no podrà concedir-se en cap cas",
+      "podrà concedir-se només si ho sol.licita l’interessat en determinades circumstàncies",
+      "podrà concedir-se d’ofici o a instància de part",
+      "podrà concedir-se fins a un màxim del doble del termini inicialment concedit"
+    ],
+    "resposta": "podrà concedir-se d’ofici o a instància de part"
+  },
+  {
+    "pregunta": "Quan els interessats siguin desconeguts, s’ignori el domicili de notificació o bé\naquesta hagi estat infructuosa, la notificació d’un acte de l’Ajuntament es farà\nmitjançant anunci publicat",
+    "opcions": [
+      "al Butlletí Oficial de la Província",
+      "en tot cas, i únicament, al Boletín Oficial del Estado",
+      "al Boletín Oficial del Estado, si bé prèviament i amb caràcter facultatiu, es podrà\npublicar també a través d’altres mitjans",
+      "al Boletín Oficial del Estado i al Butlletí Oficial de la Província"
+    ],
+    "resposta": "al Boletín Oficial del Estado, si bé prèviament i amb caràcter facultatiu, es podrà\npublicar també a través d’altres mitjans"
+  },
+  {
+    "pregunta": "Quan una sol.licitud no reuneix els requisits establerts a la llei",
+    "opcions": [
+      "es podrà requerir a l’interessat per a que l’esmeni si de la seva lectura resulta\nimpossible determinar quin és el seu objecte",
+      "s’haurà de requerir a l’interessat per a que l’esmeni en el termini de deu dies",
+      "s’haurà d’arxivar l’expedient, tenint per desistit a l’interessat",
+      "s’haurà de requerir a l’interessat per a que l’esmeni en el termini de cinc dies, amb\npossibilitat d’ampliació"
+    ],
+    "resposta": "s’haurà de requerir a l’interessat per a que l’esmeni en el termini de deu dies"
+  },
+  {
+    "pregunta": "El personal que en virtut de nomenament ocupa provisionalment, per raons de\nnecessitat o urgència, llocs de treball vacants que corresponen a places de funcionaris\no en substitució d’aquests són",
+    "opcions": [
+      "funcionaris eventuals",
+      "personal laboral temporal",
+      "funcionaris interins",
+      "funcionaris de carrera"
+    ],
+    "resposta": "funcionaris interins"
+  },
+  {
+    "pregunta": "La llei de contractes del sector públic és aplicable",
+    "opcions": [
+      "a totes les persones jurídiques",
+      "a totes les Administracions públiques",
+      "a totes les Administracions públiques excepte els Ajuntaments",
+      "cap de les respostes anteriors és correcta"
+    ],
+    "resposta": "a totes les Administracions públiques"
+  },
+  {
+    "pregunta": "Són tipus de contractes del sector públic",
+    "opcions": [
+      "el contracte d’obres",
+      "el contracte de concessió",
+      "el contracte de subministrament",
+      "totes les respostes anteriors són correctes"
+    ],
+    "resposta": "totes les respostes anteriors són correctes"
+  },
+  {
+    "pregunta": "Els contractes del sector públic s’adjudiquen",
+    "opcions": [
+      "mitjançant una prèvia licitació en tot cas",
+      "sense prèvia licitació en el cas dels contractes menors",
+      "previ anunci al butlletí oficial corresponent",
+      "cap de les respostes anteriors és correcta"
+    ],
+    "resposta": "sense prèvia licitació en el cas dels contractes menors"
+  },
+  {
+    "pregunta": "D’acord amb la nova llei de contractes del sector públic (llei 9/2017), els contractes\nmenors són",
+    "opcions": [
+      "els de valor estimat inferior a 18.000 €",
+      "els de valor estimat inferior a 15.000 €",
+      "els de valor estimat inferior a 40.000 €, en el cas d’obres, o a 15.000 €, en el cas de\nserveis o subministraments",
+      "els de valor estimat inferior a 50.000 €, en el cas d’obres, o a 18.000 €, en el cas de\nserveis o subministraments"
+    ],
+    "resposta": "els de valor estimat inferior a 40.000 €, en el cas d’obres, o a 15.000 €, en el cas de\nserveis o subministraments"
+  },
+  {
+    "pregunta": "Són procediments d’adjudicació de contractes del sector públic",
+    "opcions": [
+      "el procediment obert, el procediment restringit i el procediment negociat",
+      "el procediment obert, el procediment tancat i el procediment especial",
+      "el procediment ordinari i el procediment extraordinari",
+      "el procediment comú i el procediment especial"
+    ],
+    "resposta": "el procediment obert, el procediment restringit i el procediment negociat"
+  },
+  {
+    "pregunta": "La resolució per la qual s’adjudica un contracte s’ha de notificar",
+    "opcions": [
+      "a tots els licitadors",
+      "només al licitador que ha guanyat",
+      "a ningú, perquè s’ha d’esperar a formalitzar el contracte",
+      "cap de les respostes anteriors és correcta"
+    ],
+    "resposta": "a tots els licitadors"
+  },
+  {
+    "pregunta": "L’òrgan encarregat de la valoració de les ofertes dels licitadors és la",
+    "opcions": [
+      "Junta de Contractació",
+      "Junta de Govern Local",
+      "Mesa de Contractació",
+      "Mesa de Licitació"
+    ],
+    "resposta": "Mesa de Contractació"
+  },
+  {
+    "pregunta": "L’àmbit temporal del pressupost de l’Ajuntament és",
+    "opcions": [
+      "mensual",
+      "trimestral",
+      "any natural",
+      "quinquenal"
+    ],
+    "resposta": "any natural"
+  },
+  {
+    "pregunta": "La igualtat de tracte i d’oportunitats entre dones i homes:",
+    "opcions": [
+      "és un principi informador de l’ordenament jurídic.",
+      "s’ integrarà i observarà a la interpretació de les normes jurídiques.",
+      "s’ integrarà i observarà a l’aplicació de les normes jurídiques.",
+      "totes les respostes anteriors són correctes."
+    ],
+    "resposta": "totes les respostes anteriors són correctes."
+  },
+  {
+    "pregunta": "L’aprovació del pressupost de l’Ajuntament correspon a",
+    "opcions": [
+      "l’Alcalde",
+      "la Junta de Govern Local",
+      "el Ple",
+      "la Comissió especial de comptes"
+    ],
+    "resposta": "el Ple"
+  },
+  {
+    "pregunta": "Una persona que visqui habitualment en el municipi d’Abrera i en el de Barcelona",
+    "opcions": [
+      "ha d’inscriure’s en el padró del municipi on resideixi més temps en els darrers sis\nmesos",
+      "ha d’inscriure’s únicament al padró del municipi on resideixi durant més temps a\nl’any",
+      "pot inscriure’s al padró d’ambdós municipis",
+      "ha d’inscriure’s obligatòriament al padró d’ambdós municipis"
+    ],
+    "resposta": "ha d’inscriure’s únicament al padró del municipi on resideixi durant més temps a\nl’any"
+  },
+  {
+    "pregunta": "Els actes i les clàusules dels negocis jurídics que constitueixin o causin\ndiscriminació per raó de gènere es consideraran:",
+    "opcions": [
+      "anul·lables",
+      "nuls i sense efecte",
+      "irregulars",
+      "revisables"
+    ],
+    "resposta": "nuls i sense efecte"
+  },
+  {
+    "pregunta": "Els tributs propis del municipi són:",
+    "opcions": [
+      "els impostos i les taxes.",
+      "els impostos, les taxes i les contribucions especials.",
+      "els impostos, les taxes, les contribucions especials i els preus públics.",
+      "els impostos, les taxes, les contribucions especials, els preus públics i el producte\nde les multes i sancions."
+    ],
+    "resposta": "els impostos, les taxes i les contribucions especials."
+  },
+  {
+    "pregunta": "En un municipi de 12.000 habitants les sessions ordinàries del Ple se celebren",
+    "opcions": [
+      "com a mínim un cop al mes",
+      "com a mínim cada dos mesos",
+      "com a mínim cada tres mesos",
+      "com a mínim un cop l’any per aprovar els comptes i el pressupost de l’any següent"
+    ],
+    "resposta": "com a mínim cada dos mesos"
+  },
+  {
+    "pregunta": "Es considera vàlid a efectes d’autenticació i identificació dels emissors i receptors:",
+    "opcions": [
+      "el document electrònic transmès en entorns oberts de comunicacions establerts\nentre Administracions Públiques, òrgans, organismes públics i entitats de dret públic o\nprivat.",
+      "el document electrònic transmès en entorns tancats de comunicacions establerts\nentre Administracions Públiques, òrgans, organismes públics i entitats de dret públic.",
+      "el document electrònic transmès en entorns oberts de comunicacions establerts\nentre Administracions Públiques, òrgans, organismes públics i entitats de dret públic",
+      "el document electrònic transmès en entorns tancats de comunicacions establerts\nentre Administracions Públiques, òrgans, organismes públics i entitats de dret públic o\nprivat."
+    ],
+    "resposta": "el document electrònic transmès en entorns tancats de comunicacions establerts\nentre Administracions Públiques, òrgans, organismes públics i entitats de dret públic o\nprivat."
+  },
+  {
+    "pregunta": "Els empleats públics estan obligats a relacionar-se electrònicament amb\nl’Administració:",
+    "opcions": [
+      "en tot cas, des de l’entrada en vigor de la Llei 39/2015",
+      "no; ho poden fer de manera voluntària i potestativa",
+      "només per als tràmits i actuacions que realitzin per raó de la seva condició\nd’empleat públic",
+      "cap de les respostes anteriors és correcta"
+    ],
+    "resposta": "només per als tràmits i actuacions que realitzin per raó de la seva condició\nd’empleat públic"
+  },
+  {
+    "pregunta": "D’acord amb la nova llei de contractes (llei 9/2017), els contractes menors no es\npoden adjudicar a una empresa",
+    "opcions": [
+      "si aquesta empresa ja ha estat adjudicatària d’un altre contracte menor dins del\nmateix any",
+      "si aquesta empresa ja ha estat adjudicatària d’altres contractes menors amb el\nmateix objecte que individual o conjuntament superin el llindar del contracte menor",
+      "si aquesta empresa està domiciliada a l’estranger",
+      "si aquesta empresa té la consideració de gran empresa."
+    ],
+    "resposta": "si aquesta empresa ja ha estat adjudicatària d’altres contractes menors amb el\nmateix objecte que individual o conjuntament superin el llindar del contracte menor"
+  },
+  {
+    "pregunta": "El servei de tractament de residus s’ha de prestar:",
+    "opcions": [
+      "en tots els municipis.",
+      "en els municipis amb població superior a 5.000 habitants.",
+      "en els municipis amb població superior a 20.000 habitant.",
+      "és potestatiu de cada ajuntament."
+    ],
+    "resposta": "en tots els municipis."
+  },
+  {
+    "pregunta": "En matèria de classificació dels pressupostos locals, quan parlem dels nivells de\ncapítol, article i concepte ens estem referint a la classificació:",
+    "opcions": [
+      "funcional.",
+      "per programes.",
+      "econòmica.",
+      "ordinària."
+    ],
+    "resposta": "econòmica."
+  },
+  {
+    "pregunta": "Els béns dels ens locals es classifiquen en:",
+    "opcions": [
+      "béns de domini públic, béns comunals i béns patrimonials.",
+      "béns de domini públic i béns patrimonials.",
+      "béns propis i béns comuns.",
+      "béns afectes a ús públic i béns afectes a serveis públic."
+    ],
+    "resposta": "béns de domini públic, béns comunals i béns patrimonials."
+  },
+  {
+    "pregunta": "L’ús comú especial d’un bé de domini públic",
+    "opcions": [
+      "està sempre subjecte a concessió administrativa.",
+      "és aquell en el qual no concorren circumstàncies singulars de perillositat, intensitat\nd'ús o d'altres similars.",
+      "es pot subjectar a la llicència d'acord amb la naturalesa del bé, els actes d'afectació\nd'obertura a l'ús públic i les disposicions generals.",
+      "exercir tota mena d'accions i recursos en defensa dels seus béns i drets."
+    ],
+    "resposta": "es pot subjectar a la llicència d'acord amb la naturalesa del bé, els actes d'afectació\nd'obertura a l'ús públic i les disposicions generals."
+  },
+  {
+    "pregunta": "Els ens locals",
+    "opcions": [
+      "tenen capacitat jurídica plena per exercir tota mena d'accions i recursos en defensa\ndels seus béns i drets.",
+      "només poden defensar els seus béns i drets si tenen un pressupost superior a\n1.000.000€ anual.",
+      "tenen capacitat jurídica per exercir tota mena d'accions i recursos en defensa dels\nseus béns i drets si obtenen el dictàmen favorable de la Generalitat de Catalunya.",
+      "exercir tota mena d'accions i recursos en defensa dels seus béns i drets."
+    ],
+    "resposta": "tenen capacitat jurídica plena per exercir tota mena d'accions i recursos en defensa\ndels seus béns i drets."
+  },
+  {
+    "pregunta": "Quin és l’instrument fonamental de la política de Transparència d’un Ajuntament?",
+    "opcions": [
+      "La Seu Electrònica.",
+      "El Portal de Transparència.",
+      "El Portal de Tràmits.",
+      "La pàgina de Queixes i Suggeriments."
+    ],
+    "resposta": "El Portal de Transparència."
+  },
+  {
+    "pregunta": "La regulació de les obligacions de Transparència de l’Administració Pública estan\nregulades a",
+    "opcions": [
+      "la Llei 19/2014, de 29 de desembre.",
+      "el Decret legislatiu 1/1997, de 31 d’octubre.",
+      "la Llei 39/2015, d’1 d’octubre.",
+      "la Llei 40/2015, d’1 d’octubre."
+    ],
+    "resposta": "la Llei 19/2014, de 29 de desembre."
+  },
+  {
+    "pregunta": "El territorio en el qual l'Ajuntament exerceix les seves competències és:",
+    "opcions": [
+      "la demarcación municipal",
+      "el districte municipal",
+      "el terme municipal",
+      "l'àrea bàsica municipal\nResolució: c\n52. Són òrgans col·legiats de l'Ajuntament:\na) el Ple\nb) la Junta de Govern Local\nc) la Comissió especial de Comptes\nd) totes les respostes anteriors són correctes"
+    ],
+    "resposta": "l'àrea bàsica municipal\nResolució: c\n52. Són òrgans col·legiats de l'Ajuntament:\na) el Ple\nb) la Junta de Govern Local\nc) la Comissió especial de Comptes\nd) totes les respostes anteriors són correctes"
+  },
+  {
+    "pregunta": "L'òrgan que té atribuida legalment la representacio de l'Ajuntament és:",
+    "opcions": [
+      "l'Alcalde",
+      "el Ple",
+      "el secretari",
+      "cap de les respostes anteriors"
+    ],
+    "resposta": "l'Alcalde"
+  },
+  {
+    "pregunta": "Els Decrets són aprovats:",
+    "opcions": [
+      "per l'alcalde o els regidors delegats",
+      "només per l'alcalde",
+      "pel secretari",
+      "pel Ple"
+    ],
+    "resposta": "pel Ple"
+  },
+  {
+    "pregunta": "En materia de transparencia, la publicitat activa consisteix en:",
+    "opcions": [
+      "que l'Administració ha de facilitar als ciutadas aquella informacio pública que demanin sempre\nque no concorri cap de les causes de denegació expressament previstes a la llei",
+      "que l'Administració ha de publicar d'ofivi, al seu portal de transparencia, tota aquella informacio\nprevista a la llei",
+      "que l'Administració ha d'adoptar les mesures organitzatives necessàries per donar compliment a\nles previsions de la Llei de transparencia",
+      "cap de les respotes anteriors és correcte"
+    ],
+    "resposta": "que l'Administració ha de publicar d'ofivi, al seu portal de transparencia, tota aquella informacio\nprevista a la llei"
+  },
+  {
+    "pregunta": "En relació al procediment d’aprovació de les ordenances assenyala la resposta correcta:",
+    "opcions": [
+      "S’aproven inicialment per la Junta de Govern Local.",
+      "Hi ha un tràmit d’informació i audiència als interessats per un termini mínim de quinze dies per a\nla presentació de reclamacions i suggeriments.",
+      "En el cas que no es presentin reclamacions o suggeriments s’ha\nd’entendre definitivament adoptat l’acord provisional.",
+      "Totes les respostes són correctes."
+    ],
+    "resposta": "En el cas que no es presentin reclamacions o suggeriments s’ha\nd’entendre definitivament adoptat l’acord provisional."
+  },
+  {
+    "pregunta": "Es consideren interessats en el procediment administratiu:",
+    "opcions": [
+      "Els que el promouen com a titulars de drets o interessos legítims individuals o col·lectius.",
+      "Els que, sense promoure el procediment, tinguin drets que puguin resultar afectats per la\ndecisió que s’adopti.",
+      "Les associacions i organitzacions representatives d’interessos econòmics i socials, titulars\nd’interessos legítims col·lectius en els termes que la Llei reconegui.",
+      "Totes les respostes són correctes."
+    ],
+    "resposta": "Totes les respostes són correctes."
+  },
+  {
+    "pregunta": "La gestió directa dels serveis públics pot realitzar-se mitjançant les següents formes:",
+    "opcions": [
+      "Gestió del propi ens local.",
+      "Societat mercantil mixta.",
+      "Entitat pública empresarial local.",
+      "Les respostes a) i c) són correctes."
+    ],
+    "resposta": "Les respostes a) i c) són correctes."
+  },
+  {
+    "pregunta": "Els ajuntaments hauran d’exigir en tot cas:",
+    "opcions": [
+      "L’Impost sobre béns immobles.",
+      "L’Impost sobre construccions, instal·lacions i obres.",
+      "L’Impost sobre activitats econòmiques.",
+      "La respostes a i c són correctes."
+    ],
+    "resposta": "La respostes a i c són correctes."
+  },
+  {
+    "pregunta": "Quin dels següents no té la consideració de dret de les persones en les seves relacions amb\nles Administracions Públiques, d’acord amb la Llei 39/2015:",
+    "opcions": [
+      "Dret a comunicar-se amb les Administracions Públiques a través d’un punt d’accés general\nelectrònic de l’Administració.",
+      "Dret a exigir responsabilitats de les Administracions Públiques i autoritats, quan així\ncorrespongui legalment.",
+      "Dret a exigir l’abstenció de funcionaris i autoritats en relació a qualsevol tipus de procediment.",
+      "Dret a utilitzar les llengües oficials en el territori de la seva Comunitat Autònoma, d’acord amb\nallò previst a la Llei 39/2015 i a la resta de l’ordenament jurídic."
+    ],
+    "resposta": "Dret a exigir l’abstenció de funcionaris i autoritats en relació a qualsevol tipus de procediment."
+  },
+  {
+    "pregunta": "En quina de les següents situacions existeix l’obligació de relacionar-se electrònicament amb\nl’Ajuntament de Lloret de Mar?",
+    "opcions": [
+      "La sol·licitud que presenta a l’Ajuntament la Sra. Martínez perquè se li concedeixi una llicència\nd’obra per a la reforma del seu habitatge.",
+      "La instància que presenta el Sr. Moreno, funcionari de l’Ajuntament de Lloret de Mar, perquè li\nsigui concedida una excedència voluntària per tenir cura del seu fill.",
+      "El recurs de reposició que presenta el veí de Lloret, Sr. Smith, contra el Decret pel qual se li\nimposa una sanció per infracció de l’Ordenança de tinença d’animals domèstics.",
+      "Cap resposta és correcta."
+    ],
+    "resposta": "La instància que presenta el Sr. Moreno, funcionari de l’Ajuntament de Lloret de Mar, perquè li\nsigui concedida una excedència voluntària per tenir cura del seu fill."
+  },
+  {
+    "pregunta": "Si l’Ajuntament de Lloret de Mar vol declarar lesiu per l’interès públic un acord de Ple adoptat\ntemps enrere, perquè es considera que es va cometre un error de forma determinant\nd’anul·labilitat...",
+    "opcions": [
+      "L’Ajuntament haurà de tramitar el procediment i, una vegada s’hagi dictat la proposta de\nresolució, haurà de demanar l’emissió d’un dictamen preceptiu i vinculant a l’òrgan consultiu de la\nGeneralitat.",
+      "Haurà de tramitar-se el procediment corresponent i sotmetre la declaració de lesivitat a\nconsideració de l’Alcalde, que serà l’òrgan que finalment l’haurà d’aprovar.",
+      "Haurà de tramitar el procediment corresponent en el termini màxim de 1 any des del seu inici, ja\nque superat aquest termini es produirà la caducitat.",
+      "La declaració de lesivitat no podrà adoptar-se una vegada transcorreguts quatre anys des de\nque es va dictar l’acte i exigirà la prèvia audiència de quants apareguin com a interessats."
+    ],
+    "resposta": "La declaració de lesivitat no podrà adoptar-se una vegada transcorreguts quatre anys des de\nque es va dictar l’acte i exigirà la prèvia audiència de quants apareguin com a interessats."
+  },
+  {
+    "pregunta": "Els particulars tenen dret a ser indemnitzats per les Administracions Públiques de tota lesió\nque pateixin en qualsevol dels seus béns i drets, sempre que:",
+    "opcions": [
+      "La lesió sigui conseqüència del funcionament normal o anormal dels serveis públics, a excepció\ndels supòsits de força major.",
+      "Es tracti de danys que el particular no tingui el deure jurídic de suportar.",
+      "El dany al·legat sigui avaluable econòmicament.",
+      "Totes les respostes són correctes."
+    ],
+    "resposta": "Totes les respostes són correctes."
+  },
+  {
+    "pregunta": "D’acord a la Llei 40/2015, son motius d’abstenció els següents:",
+    "opcions": [
+      "Tenir interès personal en l’afer de què es tracti o en un altre la resolució del qual pugui influir la\nd’aquell; ser administrador de societat o entitat interessada, o tenir qüestió litigiosa pendent amb\nalgun interessat.",
+      "Haver intervingut com a pèrit o com a testimoni en el procediment de què es tracti.",
+      "Cap resposta és certa",
+      "Les respostes a i b són certes."
+    ],
+    "resposta": "Les respostes a i b són certes."
+  },
+  {
+    "pregunta": "El dret d’accés a la informació pública, d’acord amb el que estableix la llei 19/2014:",
+    "opcions": [
+      "Es pot exercir a partir dels setze anys.",
+      "Inclou qualsevol forma o suport en què aquesta informació hagi estat elaborada o en què es\nconservi.",
+      "No és condicionat a la concurrència d’un interès personal, no resta subjecte a motivació i no\nrequereix la invocació de cap norma.",
+      "Totes les respostes són correctes."
+    ],
+    "resposta": "Totes les respostes són correctes."
+  },
+  {
+    "pregunta": "La competència per aprovar l'alteració de la qualificació jurídica dels béns dels ens locals:",
+    "opcions": [
+      "És de la Junta de Govern mitjançant un acord adoptat amb el vot favorable de la majoria\nabsoluta del nombre legal dels seus membres, en el cas que comporti la desafectació de béns de\ndomini públic o comunal.",
+      "És del Ple de la Corporació mitjançant un acord adoptat amb el vot favorable de la majoria\nabsoluta del nombre legal dels seus membres, en el cas que comporti la desafectació de béns de\ndomini públic o comunal.",
+      "És de l’Alcalde, prèvia consulta publica de 15 dies, en el cas que comporti la desafectació de\nbéns de domini públic o comunal.",
+      "Cap de les anteriors és correcta"
+    ],
+    "resposta": "És del Ple de la Corporació mitjançant un acord adoptat amb el vot favorable de la majoria\nabsoluta del nombre legal dels seus membres, en el cas que comporti la desafectació de béns de\ndomini públic o comunal."
+  },
+  {
+    "pregunta": "Les subvencions es poden atorgar directament, sense concurrència competitiva ni publicitat\nprèvia quan:",
+    "opcions": [
+      "Estiguin consignades nominativament en el pressupost general de l’Entitat concedent o es tracti\nde subvencions en què s’acreditin raons d’interès públic, social, econòmic o humanitari, o altres\nraons degudament justificades, que en dificultin la convocatòria publica.",
+      "Estiguin consignades nominativament en el pressupost general de l’Entitat concedent o es tracti\nde subvencions en què s’acreditin raons d’interès públic, social, econòmic o humanitari, o altres\nraons degudament justificades, sempre i quan hi hagi una línia de concurrència competitiva oberta\nen la qual es puguin presentar.",
+      "Només quan estiguin consignades nominativament en el pressupost general.",
+      "Només quan tracti de subvencions en què s’acreditin raons d’interès públic, social, econòmic o\nhumanitari, o altres raons degudament justificades, que en dificultin la convocatòria publica."
+    ],
+    "resposta": "Estiguin consignades nominativament en el pressupost general de l’Entitat concedent o es tracti\nde subvencions en què s’acreditin raons d’interès públic, social, econòmic o humanitari, o altres\nraons degudament justificades, que en dificultin la convocatòria publica."
+  },
+  {
+    "pregunta": "En relació al pagament en període voluntari d’un deute tributari, assenyala la resposta\ncorrecta:",
+    "opcions": [
+      "Si la notificació de la liquidació es realitza entre els dies 1 i 15 de cada mes, des de la data de\nrecepció de la notificació fins el dia 20 del mes posterior o, si aquest no fos hàbil, fins el dia\nimmediat hàbil següent",
+      "Si la notificació de la liquidació es realitza entre els dies 16 i últim de cada mes, des de la data\nde recepció de la notificació fins el dia cinc del tercer mes posterior o, si aquest no fos hàbil, fins a\nl’immediat hàbil següent.",
+      "a) i b) són correctes",
+      "Cap resposta és correcta"
+    ],
+    "resposta": "Si la notificació de la liquidació es realitza entre els dies 1 i 15 de cada mes, des de la data de\nrecepció de la notificació fins el dia 20 del mes posterior o, si aquest no fos hàbil, fins el dia\nimmediat hàbil següent"
+  },
+  {
+    "pregunta": "Quina de les següents opcions no és un supòsit de prohibició per contractar amb\nl’Administració Pública?",
+    "opcions": [
+      "Haver estat condemnat per sentencia ferma per delictes relacionats amb la corrupció, el tràfic\nd’influències o frau.",
+      "No estar inscrit en el Registre de Licitadors i Empreses Classificades del Sector Públic.",
+      "Haver sol·licitat la declaració de concurs voluntari sense tenir encara una resolució favorable.",
+      "No trobar-se al corrent de les obligacions tributàries i amb la Seguretat Social."
+    ],
+    "resposta": "No estar inscrit en el Registre de Licitadors i Empreses Classificades del Sector Públic."
+  },
+  {
+    "pregunta": "Dins les fases d’execució del Pressupost d’una Administració Local, quina d’elles té rellevància\njurídica pels tercers.",
+    "opcions": [
+      "El compromís de despesa.",
+      "El reconeixement de la obligació.",
+      "L’aprovació del pressupost.",
+      "Cap resposta és correcta."
+    ],
+    "resposta": "El compromís de despesa."
+  },
+  {
+    "pregunta": "Quin és el termini màxim perquè el Ple de l'ens local aprovi el pressupost municipal per a\nl'exercici següent?",
+    "opcions": [
+      "Abans del 30 de setembre de l’any anterior.",
+      "Abans del 31 d’octubre de l’any anterior.",
+      "Abans del 31 de desembre de l’any anterior.",
+      "No hi ha un termini fix, ja que cada ens local decideix quan aprovar-lo."
+    ],
+    "resposta": "Abans del 31 de desembre de l’any anterior."
+  },
+  {
+    "pregunta": "Segons la normativa vigent, quin dels següents no és un requisit obligatori en la inscripció en\nel padró municipal?",
+    "opcions": [
+      "Nom i cognoms de la persona que es vol empadronar.",
+      "Número de telèfon i correu electrònic de la persona que es vol empadronar.",
+      "Domicili habitual dins del municipi.",
+      "Document acreditatiu de la identitat de la persona que es vol empadronar."
+    ],
+    "resposta": "Número de telèfon i correu electrònic de la persona que es vol empadronar."
+  },
+  {
+    "pregunta": "Marca la opció correcta:",
+    "opcions": [
+      "Els carrers, places i camins d’un municipi són béns patrimonials.",
+      "Els béns comunals són els que pertanyen a dos o més municipis.",
+      "Els béns de domini públic són alienables.",
+      "L’edifici on l’Ajuntament té la seu és un bé de domini públic."
+    ],
+    "resposta": "L’edifici on l’Ajuntament té la seu és un bé de domini públic."
+  },
+  {
+    "pregunta": "Segons la legislació sobre hisendes locals, quin dels següents òrgans és l'encarregat\nd'aprovar definitivament el pressupost municipal d'un ajuntament?",
+    "opcions": [
+      "El Ple de l'Ajuntament.",
+      "L'Alcalde o Alcaldessa.",
+      "La Intervenció Municipal.",
+      "La Junta de Govern Local."
+    ],
+    "resposta": "El Ple de l'Ajuntament."
+  },
+  {
+    "pregunta": "Segons la Llei 39/2015, quin és el termini general per a resoldre un procediment administratiu\nsi no s’estableix un termini específic?",
+    "opcions": [
+      "10 dies hàbils",
+      "6 mesos",
+      "3 mesos",
+      "12 mesos"
+    ],
+    "resposta": "3 mesos"
+  },
+  {
+    "pregunta": "Les administracions públiques NO requereixen als interessats l’ús obligatori de signatura per:",
+    "opcions": [
+      "Interposar recursos",
+      "Rebre notificacions electròniques",
+      "Renunciar a drets",
+      "Presentar declaracions responsables o comunicacions"
+    ],
+    "resposta": "Rebre notificacions electròniques"
+  },
+  {
+    "pregunta": "Els documents electrònics s’han de conservar en un format que permeti garantir... (assenyala\nla resposta correct",
+    "opcions": [
+      ":\na) L’eliminació del document en el moment que indiqui la normativa",
+      "L’enviament de documentació quan necessitem disposar d’un justificant de la tramesa\nelectrònica",
+      "L’autenticitat, la integritat i la conservació del document",
+      "La participació en la informació del document"
+    ],
+    "resposta": "L’autenticitat, la integritat i la conservació del document"
+  },
+  {
+    "pregunta": "El document mitjançant el qual l’Administració dona a conèixer a la persona interessada una\nresolució o un acte administratiu és:",
+    "opcions": [
+      "Un informe",
+      "Un acord",
+      "Una diligència",
+      "Una notificació"
+    ],
+    "resposta": "Una notificació"
+  },
+  {
+    "pregunta": "D’acord amb la Llei 39/2015, quan la notificació es practiqui en paper al domicili de la persona\ninteressada, si no esta present en el moment de lliurar-se la notificació, qui podrà fer-se càrrec de\nla mateixa?",
+    "opcions": [
+      "L’ordenança no preveu aquesta circumstància",
+      "Ningú, només la persona interessada",
+      "Qualsevol persona",
+      "Qualsevol persona major de catorze anys que estigui al domicili i faci constar la seva identitat"
+    ],
+    "resposta": "Qualsevol persona major de catorze anys que estigui al domicili i faci constar la seva identitat"
+  },
+  {
+    "pregunta": "Segons estableix l’article 88 de la Llei 39/2015, assenyaleu l’afirmació INCORRECTA en\nrelació amb els procediments iniciats a sol·licitud de la persona interessada:",
+    "opcions": [
+      "La Resolució serà congruent amb les peticions formulades per la persona interessada",
+      "El silenci administratiu sempre serà positiu o estimatori",
+      "La resolució en cap cas podrà agreujar la situació inicial de la persona interessada",
+      "L’Administració gaudeix de la potestat d’incoar d’ofici un nou procediment, si procedeix."
+    ],
+    "resposta": "El silenci administratiu sempre serà positiu o estimatori"
+  },
+  {
+    "pregunta": "D’acord amb l’article 42 de la Llei 39/2015, quan la persona interessada no estigui obligada a\nrelacionar-se electrònicament amb l’administració, quina resposta és correcta?",
+    "opcions": [
+      "Si la persona interessada així ho demana, la notificació també es posarà a la seva disposició a\nla Seu Electrònica",
+      "La notificació només es farà en el format que expressament hagi indicat la persona interessada,\nque en tot cas serà o només en format paper o només en format electrònic",
+      "Encara que la persona interessada no estigui obligada a relacionar-se electrònicament amb\nl’Administració, totes les notificacions es faran exclusivament en format electrònic",
+      "La notificació es posarà igualment a disposició de la persona interessada a la Seu Electrònica\nper al seu accés voluntari"
+    ],
+    "resposta": "La notificació es posarà igualment a disposició de la persona interessada a la Seu Electrònica\nper al seu accés voluntari"
+  },
+  {
+    "pregunta": "Els empleats de les administracions públiques, quan tenen l’obligació d’utilitzar els mitjans\nelectrònics?",
+    "opcions": [
+      "En qualsevol procediment que tramitin",
+      "Només en els tràmits i les actuacions que efectuïn amb les administracions públiques per raó\nde la seva condició d’empleat públic",
+      "En els tràmits i actuacions que efectuïn amb les administracions públiques només si tenen la\ncondició de funcionari públic",
+      "Cap resposta és correcta"
+    ],
+    "resposta": "Només en els tràmits i les actuacions que efectuïn amb les administracions públiques per raó\nde la seva condició d’empleat públic"
+  },
+  {
+    "pregunta": "Referent al silenci administratiu (assenyala la incorrect",
+    "opcions": [
+      "a) L’estimació per silenci administratiu té a tots els efectes la consideració d’acte administratiu\nfinalitzador del procediment.",
+      "La desestimació per silenci administratiu té els únics efectes de permetre als interessats\ninterposar el recurs administratiu o contenciós administratiu que sigui procedent.",
+      "En els casos d’estimació per silenci administratiu, la resolució expressa posterior a la producció\nde l’acte només es pot dictar en cas de ser confirmatòria d’aquell.",
+      "En els casos de desestimació per silenci administratiu, la resolució expressa posterior al\nvenciment del termini l’ha d’adoptar l’Administració amb vinculació al sentit del silenci."
+    ],
+    "resposta": "En els casos de desestimació per silenci administratiu, la resolució expressa posterior al\nvenciment del termini l’ha d’adoptar l’Administració amb vinculació al sentit del silenci."
+  },
+  {
+    "pregunta": "En relació a la finalització del procediment administratiu i d’acord amb la Llei 39/2015, en els\nprocediments iniciats a sol·licitud de la persona interessada, quan se’n produeixi la paralització per\ncausa imputable a aquesta, l’Administració l’ha d’advertir que es produeix la caducitat del\nprocediment transcorreguts:",
+    "opcions": [
+      "En cap cas es pot acordar la caducitat",
+      "Tres mesos",
+      "Sis mesos",
+      "15 dies naturals"
+    ],
+    "resposta": "Tres mesos"
+  },
+  {
+    "pregunta": "Quan una Administració pública hagi de dictar, en l’àmbit de les seves competències, un acte\nque tingui necessàriament com a base un altre de dictat per una Administració pública diferent i\naquella entengui que és il·legal, pot requerir aquesta prèviament perquè anul·li o revisi l’acte i, de\nrebutjar el requeriment, podrà interposar:",
+    "opcions": [
+      "Recurs d’alçada",
+      "Recurs potestatiu de reposició",
+      "Recurs extraordinari de revisió",
+      "Recurs contenciós-administratiu"
+    ],
+    "resposta": "Recurs contenciós-administratiu"
+  },
+  {
+    "pregunta": "Referent al tràmit d’audiència (assenyala la incorrect",
+    "opcions": [
+      ":\na) Els interessats, en un termini no inferior a quinze dies ni superior a vint, poden al·legar i\npresentar els documents i les justificacions que considerin pertinents.",
+      "L’audiència als interessats ha de ser anterior a la sol·licitud de l’informe de l’òrgan competent\nper a l’assessorament jurídic o a la sol·licitud del dictamen del Consell d’Estat o òrgan consultiu\nequivalent de la comunitat autònoma, en el cas que aquests formin part del procediment.",
+      "Es pot prescindir del tràmit d’audiència quan no figurin en el procediment ni siguin tinguts en\ncompte en la resolució altres fets ni altres al·legacions i proves que les adduïdes per l’interessat.",
+      "Si abans del venciment del termini els interessats manifesten la seva decisió de no efectuar\nal·legacions ni aportar nous documents o justificacions, el tràmit es considera realitzat."
+    ],
+    "resposta": ":\na) Els interessats, en un termini no inferior a quinze dies ni superior a vint, poden al·legar i\npresentar els documents i les justificacions que considerin pertinents."
+  },
+  {
+    "pregunta": "Un procediment administratiu es pot iniciar:",
+    "opcions": [
+      "Només a sol·licitud de la persona interessada",
+      "Només el pot iniciar l’òrgan competent per ordre directa superior",
+      "Es pot iniciar únicament d’ofici per acord de l’òrgan competent com a conseqüència d’una\ndenúncia",
+      "D’ofici o a sol·licitud de la persona interessada."
+    ],
+    "resposta": "D’ofici o a sol·licitud de la persona interessada."
+  },
+  {
+    "pregunta": "En els casos d’urgència inajornable i per a la protecció provisional dels interessos implicats,\npodrà adoptar de manera motivada les mesures provisionals que siguin necessàries i\nproporcionades:",
+    "opcions": [
+      "Iniciat el procediment administratiu, l’òrgan competent per iniciar o instruir el procediment",
+      "Abans de la iniciació del procediment administratiu, l’òrgan competent per resoldre.",
+      "Abans de la iniciació del procediment administratiu, únicament d’ofici, l’òrgan competent per\niniciar o instruir el procediment",
+      "Abans de la iniciació del procediment administratiu, d’ofici o a instància de part, l’òrgan\ncompetent per iniciar o instruir el procediment."
+    ],
+    "resposta": "Abans de la iniciació del procediment administratiu, d’ofici o a instància de part, l’òrgan\ncompetent per iniciar o instruir el procediment."
+  },
+  {
+    "pregunta": "D’acord amb les previsions de la Llei 39/2015, amb anterioritat a l’inici del procediment, l’òrgan\ncompetent podrà obrir un període d’informació i actuacions prèvies amb la finalitat de:",
+    "opcions": [
+      "Reunir la informació necessària per a la seva resolució.",
+      "Donar a conèixer als interessats l’inici del procediment.",
+      "Conèixer les circumstàncies del cas concret i la conveniència d’iniciar o no el procediment.",
+      "Cap de les respostes és correcta."
+    ],
+    "resposta": "Conèixer les circumstàncies del cas concret i la conveniència d’iniciar o no el procediment."
+  },
+  {
+    "pregunta": "Són competències de l’Alcalde:",
+    "opcions": [
+      "Representar l’Ajuntament, dictar bans, aprovar la oferta pública d’ocupació i l’aprovació de\ndeterminades aprovacions d’instruments de planejament",
+      "L’aprovació de la plantilla, la declaració de lesivitat d’actes de l’Ajuntament, l’alteració de la\nqualificació jurídica de bens de domini públic",
+      "La relació de llocs de treball, fixar la quantia de les retribucions complementàries fixes i\nperiòdiques dels funcionaris complementàries fixes i periòdiques dels funcionaris",
+      "Totes les respostes són correctes"
+    ],
+    "resposta": "Representar l’Ajuntament, dictar bans, aprovar la oferta pública d’ocupació i l’aprovació de\ndeterminades aprovacions d’instruments de planejament"
+  },
+  {
+    "pregunta": "El termini per convocar les sessions de Ple és:",
+    "opcions": [
+      "Un mínim de dos dies hàbils abans de la celebració, en les sessions ordinàries",
+      "Un mínim de tres dies hàbils abans de la celebració, en les sessions ordinàries",
+      "Un mínim d’un dia hàbil abans de la celebració, en les sessions extraordinàries i urgents",
+      "Si es fixa una data periòdica no cal un mínim de dies per convocar la\nd) Si es fixa una data periòdica no cal un mínim de dies per convocar la sessió del Ple."
+    ],
+    "resposta": "Un mínim de dos dies hàbils abans de la celebració, en les sessions ordinàries"
+  },
+  {
+    "pregunta": "Que succeeix si transcorregut el termini de dos anys des de la última renovació les persones\nobligades no han renovat la seva inscripció en el padró d’habitants?",
+    "opcions": [
+      "Es donarà audiència a l’interessat i es declararà la caducitat de la inscripció.",
+      "Es farà la renovació d’ofici, requerint a l’interessat perquè es personi i doni la seva conformitat.",
+      "Podrà declarar-se la caducitat sense necessitat d’audiència prèvia a l’interessat.",
+      "S’eliminarà la inscripció, i s’imposarà una sanció a l’interessat per no complir amb la seva\nobligació de renovació."
+    ],
+    "resposta": "Podrà declarar-se la caducitat sense necessitat d’audiència prèvia a l’interessat."
+  },
+  {
+    "pregunta": "Es denegarà l’empadronament en situacions d’ocupació irregular d’un habitatge quan:",
+    "opcions": [
+      "Els interessats no permetin l’accés a l’habitatge",
+      "No hi hagi evidència que es resideix habitualment",
+      "L’accés a l’habitatge estigui bloquejat",
+      "Totes les respostes anteriors són correctes"
+    ],
+    "resposta": "Totes les respostes anteriors són correctes"
+  },
+  {
+    "pregunta": "En relació als convenis, digues quina d’aquestes afirmacions és certa:",
+    "opcions": [
+      "Els protocols generals d’actuació o els instruments similars tenen la consideració de convenis.",
+      "Els convenis tenen naturalesa contractual.",
+      "Una de les causes de resolució dels convenis pot ser l’acord unànime de tots els firmants.",
+      "Els convenis no podran tenir una durada superior a 5 anys."
+    ],
+    "resposta": "Una de les causes de resolució dels convenis pot ser l’acord unànime de tots els firmants."
+  },
+  {
+    "pregunta": "Quina de les següents NO és una forma de gestió directa d’un\nservei públic municipal?",
+    "opcions": [
+      "La concessió d’obra pública",
+      "L’organisme autònom local",
+      "La societat municipal amb capital íntegrament municipal",
+      "L’Entitat Pública Empresarial"
+    ],
+    "resposta": "La concessió d’obra pública"
+  },
+  {
+    "pregunta": "Estan obligats a relacionar-se a través de mitjans electrònics amb les administracions\npúbliques per a qualsevol tràmit d’un procediment administratiu:",
+    "opcions": [
+      "Les persones físiques",
+      "Les entitats sense personalitat jurídica",
+      "Els empleats de les administracions públiques per tràmits i actuacions que realitzin amb\naquestes per raó de la seva condició com empleat públic, en la forma en que es determini\nreglamentàriament per cada Administració.",
+      "Les respostes b) i c) són correctes"
+    ],
+    "resposta": "Les respostes b) i c) són correctes"
+  },
+  {
+    "pregunta": "Quina de les següents afirmacions NO correspon a la regulació d’algun dels drets\nfonamentals previstos al Títol I, Capítol II, Secció 1ª de la Constitució espanyola ? Secció 1ª de la\nConstitució espanyola ?",
+    "opcions": [
+      "Ningú podrà ser privat de la seva llibertat, sinó amb l’observança del que estableix aquest\narticle i en els casos i en la forma previstos en la llei.",
+      "Els professors, els pares i, en el seu cas, els alumnes intervindran en el control i en la gestió de\ntots els centres sostinguts per l’Administració amb fons públics, en la forma que la llei estableixi.",
+      "Tothom contribuirà al sosteniment de les despeses públiques d’acord amb la seva capacitat\neconòmica mitjançant un sistema tributari just inspirat en els principis d’igualtat i progressivitat\nque, en cap cas, tindrà abast confiscatori.",
+      "Tothom té dret a obtenir la tutela efectiva dels jutges i dels tribunals en l’exercici dels seus drets i\ninteressos legítims, sense que, en cap cas, pugui haver-hi indefensió."
+    ],
+    "resposta": "Tothom contribuirà al sosteniment de les despeses públiques d’acord amb la seva capacitat\neconòmica mitjançant un sistema tributari just inspirat en els principis d’igualtat i progressivitat\nque, en cap cas, tindrà abast confiscatori."
+  },
+  {
+    "pregunta": "Si una vegada iniciat un procediment sancionador, l’infractor reconeix la seva responsabilitat i\nefectua el pagament de la sanció abans de que es dicti resolució definitiva, té dret a gaudir d’una\nreducció de l’import de la sanció de: reducció de l’import de la sanció de:",
+    "opcions": [
+      "Un 10%",
+      "Un 20%",
+      "Un 30%",
+      "Un 40%"
+    ],
+    "resposta": "Un 40%"
+  },
+  {
+    "pregunta": "Quina d’aquestes afirmacions és la correcta:",
+    "opcions": [
+      "Són no indemnitzables totes les lesions produïdes al particular que siguin conseqüència del\nfuncionament normal del servei públic.",
+      "Són indemnitzables totes les lesions produïdes al particular que siguin conseqüència del\nfuncionament de l’Administració, quan aquell tingui el deure jurídic de suportar-les.",
+      "Són indemnitzables totes les lesions produïdes al particular quan aquestes siguin conseqüència\ndel funcionament normal o anormal del servei públic, quan el dany sigui avaluable econòmicament\ni individualitzable respecte una persona o grup de persones i que aquest no tingui el deure jurídic\nde suportar.",
+      "Totes les respostes anteriors són correctes."
+    ],
+    "resposta": "Són indemnitzables totes les lesions produïdes al particular quan aquestes siguin conseqüència\ndel funcionament normal o anormal del servei públic, quan el dany sigui avaluable econòmicament\ni individualitzable respecte una persona o grup de persones i que aquest no tingui el deure jurídic\nde suportar."
+  },
+  {
+    "pregunta": "Les administracions públiques poden declarar lesius per a l’interès públic els actes\nadministratius que siguin favorables als l’interès públic els actes administratius que siguin\nfavorables als interessats?",
+    "opcions": [
+      "No, en cap cas.",
+      "Si, però només els actes que siguin nuls de ple dret.",
+      "Si, però només els actes que siguin anul·lables.",
+      "Si, fins i tot els actes que continguin únicament errors materials."
+    ],
+    "resposta": "Si, però només els actes que siguin anul·lables."
+  },
+  {
+    "pregunta": "En via administrativa, la resolució desestimatòria d’un recurs d’alçada...",
+    "opcions": [
+      "Esgota la via administrativa",
+      "Es recurrible en reposició",
+      "Es recurrible altre cop en alçada en cas que l’òrgan que resol el recurs tingui un altre superior\njeràrquic",
+      "No és recurrible en via administrativa, ni tampoc en via contenciosa administrativa."
+    ],
+    "resposta": "Esgota la via administrativa"
+  },
+  {
+    "pregunta": "Una notificació d’un acord (per exemple un decret o acord de junta de govern o de Ple) feta\nper correu electrònic compleix els requisits legals? requisits legals?",
+    "opcions": [
+      "Si, sempre",
+      "Si, quan va acompanyat d’un avís de recepció i lectura",
+      "No, mai",
+      "Si, a vegades."
+    ],
+    "resposta": "No, mai"
+  },
+  {
+    "pregunta": "En el cas d’una notificació, els terminis expressats en dies comptaran a partir de:",
+    "opcions": [
+      "Els terminis es conten en mesos",
+      "El dia que ha tingut lloc la notificació",
+      "A partir de l’endemà que ha tingut lloc la notificació",
+      "Cap de les respostes és correcte."
+    ],
+    "resposta": "A partir de l’endemà que ha tingut lloc la notificació"
+  },
+  {
+    "pregunta": "El procediment per a l’exercici d’accés a la informació pública, s’iniciarà amb la corresponent\nsol·licitud dirigida a l’òrgan titular que tingui la informació. Quin element no és necessari que consti\nen la sol·licitud?",
+    "opcions": [
+      "La identitat del sol·licitant",
+      "La informació que sol·licita",
+      "Una adreça de contacte, preferentment electrònica, a efectes de\ncomunicacions",
+      "El motiu d’accés a la informació"
+    ],
+    "resposta": "El motiu d’accés a la informació"
+  },
+  {
+    "pregunta": "Quina d’aquestes situacions té la consideració de contracte sotmès a la Llei 9/2017 de 8 de\nnovembre, de contractes del sector públic?",
+    "opcions": [
+      "La relació laboral entre l’Ajuntament i un operari de la Brigada d’Obres.",
+      "La relació entre l’Ajuntament i el ciutadà que rep el servei públic de recollida d’escombraries",
+      "La construcció de l’obra de rehabilitació de la façana de l’Ajuntament.",
+      "El conveni entre l’Ajuntament i el Club de Futbol del municipi, per la qual aquest últim rep una\nsubvenció."
+    ],
+    "resposta": "La construcció de l’obra de rehabilitació de la façana de l’Ajuntament."
+  },
+  {
+    "pregunta": "L’adquisició, a través de “renting” d’ordinadors portàtils per part de l’Ajuntament té la\nconsideració de:",
+    "opcions": [
+      "Contracte de servei",
+      "Contracte de subministrament",
+      "Contracte privat de compravenda",
+      "Contracte mixt"
+    ],
+    "resposta": "Contracte de subministrament"
+  },
+  {
+    "pregunta": "La solvència econòmica o financera pot acreditar-se?",
+    "opcions": [
+      "A través del volum anual de negocis",
+      "A través de l’existència d’una assegurança de responsabilitat civil",
+      "A través del patrimoni net de l’empresa",
+      "Totes les respostes són correctes"
+    ],
+    "resposta": "Totes les respostes són correctes"
+  },
+  {
+    "pregunta": "Quins dels següents elements NO ha de contenir el pressupost d’una entitat local:",
+    "opcions": [
+      "Els estats de despesa",
+      "Els estats d’ingressos",
+      "Les bases d’execució del Pressupost",
+      "Els text de les ordenances fiscals"
+    ],
+    "resposta": "Els text de les ordenances fiscals"
+  },
+  {
+    "pregunta": "Per l’aprofitament especial del domini públic, les entitats locals han d’exigir:",
+    "opcions": [
+      "Una contribució especial",
+      "Un preu públic",
+      "Una taxa",
+      "Una prestació personal"
+    ],
+    "resposta": "Una taxa"
+  },
+  {
+    "pregunta": "Dins el pressupost general de les entitats locals, s'hi inclou:",
+    "opcions": [
+      "El pressupost de la pròpia entitat, els dels organismes autònoms dependents d'ella i els estats\nde previsió de despeses i ingressos de les societats mercantils el capital social de les quals\npertany majoritàriament a l'entitat local.",
+      "El pressupost de la pròpia entitat i els dels organismes autònoms dependents d'ella.",
+      "El pressupost de la pròpia entitat, els dels organismes autònoms dependents d'ella i els estats\nde previsió de despeses i ingressos de les societats mercantils el capital social íntegrament de\nl'entitat local.",
+      "El pressupost de la pròpia entitat, els dels organismes autònoms dependents d'ella i els dels\nconsorcis adscrits."
+    ],
+    "resposta": "El pressupost de la pròpia entitat, els dels organismes autònoms dependents d'ella i els estats\nde previsió de despeses i ingressos de les societats mercantils el capital social íntegrament de\nl'entitat local."
+  },
+  {
+    "pregunta": "Constitueix la tresoreria de les entitats locals:",
+    "opcions": [
+      "Tots els recursos financers, siguin diners, valors o crèdits, de la entitat local, tant per operacions\npressupostàries com extrapresupuestàries",
+      "Tots els recursos financers, siguin diners, valors o crèdits, de la entitat local per operacions\npressupostàries.",
+      "Tots els recursos financers, siguin diners o crèdits, de la entitat local, tant per operacions\npressupostàries com extrapresupuestàries",
+      "Tots els recursos financers, siguin diners o crèdits, de la entitat local per operacions\npressupostàries."
+    ],
+    "resposta": "Tots els recursos financers, siguin diners, valors o crèdits, de la entitat local, tant per operacions\npressupostàries com extrapresupuestàries"
+  },
+  {
+    "pregunta": "Quina és l’afirmació correcta?",
+    "opcions": [
+      "El control comptable de les despeses es realitzarà sobre l’aplicació pressupostària i el fiscal\nsobre el nivell de vinculació",
+      "El control comptable de les despeses es realitzarà sobre el nivell de vinculació i el fiscal sobre\nl’aplicació pressupostària",
+      "El control comptable i el fiscal de les despeses es realitzarà sobre el nivell de vinculació.",
+      "Cap de les anteriors és correcta."
+    ],
+    "resposta": "El control comptable de les despeses es realitzarà sobre l’aplicació pressupostària i el fiscal\nsobre el nivell de vinculació"
+  },
+  {
+    "pregunta": "D’acord amb la normativa vigent, el procediment ordinari de concessió de subvencions és:",
+    "opcions": [
+      "El de concurrència competitiva\na) El de concurrència competitiva",
+      "El de concurrència no competitiva",
+      "El de lliure concurrència",
+      "El de concessió directa"
+    ],
+    "resposta": "El de concurrència competitiva\na) El de concurrència competitiva"
+  },
+  {
+    "pregunta": "Són anul·lables:",
+    "opcions": [
+      "Els actes de l’Administració que lesionin els drets i llibertats susceptibles d’empara\nconstitucional.",
+      "Els actes de l’Administració que tinguin un contingut impossible",
+      "Els actes de l’Administració que incorrin en qualsevol infracció de l’ordenament jurídic, fins i tot\nla desviació de poder.",
+      "Els actes de l’Administració que no incorrin en una infracció de l’ordenament jurídic, fins i tot la\ndesviació de poder."
+    ],
+    "resposta": "Els actes de l’Administració que incorrin en qualsevol infracció de l’ordenament jurídic, fins i tot\nla desviació de poder."
+  },
+  {
+    "pregunta": "D’acord al que disposa la Llei 39/2015:",
+    "opcions": [
+      "S’entén per comunicació aquell document mitjançant el qual els interessats posen en\nconeixement de l’Administració pública competent interessats posen en coneixement de\nl’Administració pública competent les seves dades identificadores o qualsevol altra dada rellevant\nper iniciar una activitat o exercir un dret.",
+      "La comunicació podrà presentar-se dins un termini posterior al d’inici de l’activitat quan la\nlegislació corresponent ho hagi previst expressament.",
+      "S’entén per comunicació aquell document mitjançant el qual els interessats posen en\nconeixement de l’Administració pública competent les seves dades identificadores i qualsevol altra\ndada rellevant per iniciar una activitat o exercir un dret.",
+      "Les respostes a) i b) són correctes."
+    ],
+    "resposta": "Les respostes a) i b) són correctes."
+  },
+  {
+    "pregunta": "Són drets de les persones en les seves relacions amb les Administracions públiques:",
+    "opcions": [
+      "Exigir les responsabilitats de les Administracions públiques i autoritats, quan així correspongui\nlegalment.",
+      "A ser tractats amb respecte i indiferència per les autoritats i empleats públics, que els han de\ntramitar l’exercici dels seus drets i complimentde les seves obligacions.",
+      "A no comunicar-se amb les Administracions públiques a través d’un punt d’accés general\nelectrònic si no tenen els Mitjans necessaris per fer-ho",
+      "A la protecció de les dades que personalment i lliurement decideixin protegir. A tal efecte, caldrà\nespecificar-ho mitjançant una instancia al registre de l’administració que correspongui."
+    ],
+    "resposta": "Exigir les responsabilitats de les Administracions públiques i autoritats, quan així correspongui\nlegalment."
+  },
+  {
+    "pregunta": "Els interessats només poden sol·licitar l’inici d’un procediment de responsabilitat patrimonial\nquan no hagi prescrit el seu dret a reclamar. Quan prescriu?",
+    "opcions": [
+      "No prescriu mai.",
+      "Prescriu als 10 dies que s’hagi produït el fet o l’acte que motivi la indemnització o es manifesti el\nseu efecte lesiu.",
+      "Prescriu al cap d’un any que s'hagi produït el fet o l’acte que motivi la indemnització o es\nmanifesti el seu efecte lesiu.",
+      "Cap de les respostes és correcte."
+    ],
+    "resposta": "Prescriu al cap d’un any que s'hagi produït el fet o l’acte que motivi la indemnització o es\nmanifesti el seu efecte lesiu."
+  },
+  {
+    "pregunta": "Els Ajuntaments acordaran la caducitat de les inscripcions padronals que no siguin renovades\ncada dos anys dels:",
+    "opcions": [
+      "Estrangers comunitaris sense autorització de residència permanent.",
+      "Estrangers comunitaris amb autorització de residència permanent.",
+      "Estrangers no comunitaris sense autorització de residència permanent.",
+      "Estrangers no comunitaris amb autorització de residència permanent."
+    ],
+    "resposta": "Estrangers no comunitaris sense autorització de residència permanent."
+  },
+  {
+    "pregunta": "Reconeix la Constitució Espanyola de 1978 el dret d’associació?",
+    "opcions": [
+      "No",
+      "Si",
+      "Si, com a obligació",
+      "Si, però només si estàs al corrent de teves obligacions tributàries"
+    ],
+    "resposta": "Si"
+  },
+  {
+    "pregunta": "Quina de les següents formes de gestió dels serveis públics és qualificable com a forma de\ngestió directa?",
+    "opcions": [
+      "El concert d’un servei públic amb una entitat privada.",
+      "La gestió d’un servei públic a través d’una societat d’economia mixta, participada a parts iguals\nentre un Ajuntament i una societat mercantil privada.",
+      "La gestió d’un servei públic a través d’una entitat pública empresarial.",
+      "La gestió d’un servei públic mitjançant una concessió administrativa de servei."
+    ],
+    "resposta": "La gestió d’un servei públic a través d’una entitat pública empresarial."
+  },
+  {
+    "pregunta": "El límit màxim de modificació d’un contracte administratiu per\ncircumstàncies previstes en el plec de condicions particulars, és d’un: d’un:",
+    "opcions": [
+      "10% del preu inicial",
+      "15% del preu inicial",
+      "20% del preu inicial",
+      "25% del preu inicial"
+    ],
+    "resposta": "20% del preu inicial"
+  },
+  {
+    "pregunta": "Per una empresa de 40 treballadors/es, quina de les següents circumstàncies NO constitueix\nuna prohibició de contractar amb un Ajuntament:",
+    "opcions": [
+      "Que l’administrador únic de la societat hagi estat condemnat amb sentència ferma per delicte\nde prevaricació.",
+      "Que l’administrador únic de la societat sigui regidor municipal.",
+      "Que l’empresa tingui deutes tributaris pendents.",
+      "Que l’empresa no compti amb un pla d’igualtat."
+    ],
+    "resposta": "Que l’empresa no compti amb un pla d’igualtat."
+  },
+  {
+    "pregunta": "Quan després d’haver-se produït l’aprovació inicial d’una ordenança municipal per part del\nPle, aquesta es sotmesa a exposició pública durant el període legalment establert sense que\ns’hagi presentat cap al·legació:",
+    "opcions": [
+      "L’ordenança s’entendrà aprovada definitivament",
+      "Caldrà procedir a l’aprovació definitiva mitjançant un nou acord de Ple",
+      "Caldrà procedir a l’aprovació definitiva mitjançant Decret d’Alcaldia",
+      "Cap de les respostes anteriors és correcte"
+    ],
+    "resposta": "L’ordenança s’entendrà aprovada definitivament"
+  },
+  {
+    "pregunta": "Quina d’aquestes atribucions no correspon al Ple:",
+    "opcions": [
+      "Controlar i fiscalitzar els òrgans de govern",
+      "Aprovar la plantilla de personal i la relació de llocs de treball.",
+      "Aprovar el Reglament Orgànic i les ordenances municipals.",
+      "L’assistència permanent a l’Alcalde en l’exercici de les seves funcions."
+    ],
+    "resposta": "L’assistència permanent a l’Alcalde en l’exercici de les seves funcions."
+  },
+  {
+    "pregunta": "Quina d’aquestes afirmacions és falsa:",
+    "opcions": [
+      "L’exercici del dret d’accés a la informació pública està condicionat a la concurrència d’un interès\npersonal i resta subjecte a motivació.",
+      "L’exercici del dret d’accés a la informació pública pot ser denegat restringit si el coneixement o\ndivulgació de la informació comporta un perjudici per als drets dels menors d’edat.",
+      "El dret d’accés a la informació pública es pot exercir a partir dels setze anys.",
+      "S’ha de donar accés a la informació pública si es tracta d’informació directament relacionada\namb l’organització, el funcionament o l’activitat pública de l’Administració que contingui dades\npersonals merament identificatives llevat que, excepcionalment, hagi de prevaler la protecció de\ndades personals o altres drets constitucionalment protegits."
+    ],
+    "resposta": "L’exercici del dret d’accés a la informació pública està condicionat a la concurrència d’un interès\npersonal i resta subjecte a motivació."
+  },
+  {
+    "pregunta": "Els sistemes selectius dels funcionaris de carrera, d’acord amb el que estableix el TREBEP,\nsón:",
+    "opcions": [
+      "Concurs oposició.",
+      "Concurs i concurs oposició.",
+      "Concurs, concurs oposició, oposició i entrevista.",
+      "Concurs oposició, oposició i, només en virtut de llei i amb caràcter excepcional, el concurs de\nvaloració de mèrits."
+    ],
+    "resposta": "Concurs oposició, oposició i, només en virtut de llei i amb caràcter excepcional, el concurs de\nvaloració de mèrits."
+  },
+  {
+    "pregunta": "La utilització dels béns de domini públic pot adoptar les modalitats següents:",
+    "opcions": [
+      "Ús comú general.",
+      "Ús comú especial.",
+      "Ús privatiu.",
+      "Totes les respostes són correctes."
+    ],
+    "resposta": "Totes les respostes són correctes."
+  },
+  {
+    "pregunta": "En relació a l’estructura de l’estat de despeses, assenyala la resposta correcta: resposta\ncorrecta:",
+    "opcions": [
+      "La classificació per programes constarà dels següents nivells: el primer relatiu a l’àrea de\ndespesa, el segon a la política de despesa, el tercer als grups de programes, que se subdividiran\nen programes.",
+      "La classificació por programes constarà de tres nivells, el primer relatiu al capítol, el segon a\nl’article i el tercer al concepte",
+      "La classificació orgànica és obligatòria i consta dels següents nivells: el primer relatiu a l’àrea de\ndespesa, el segon a la política de despesa, el tercer als grups de programes, que se subdividiran\nen programes.",
+      "La classificació por programes no és obligatòria però si l’entitat local opta per utilitzar-la\nconstarà de tres nivells, el primer relatiu al capítol, el segon a l’article i el tercer al concepte"
+    ],
+    "resposta": "La classificació per programes constarà dels següents nivells: el primer relatiu a l’àrea de\ndespesa, el segon a la política de despesa, el tercer als grups de programes, que se subdividiran\nen programes."
+  },
+  {
+    "pregunta": "Podrà prescindir-se dels tràmits de consulta, audiència i informació públiques previs a\nl’aprovació d’una ordenança o reglament:",
+    "opcions": [
+      "Quan es tracti d’una ordenança o reglament de caràcter mediambiental",
+      "Quan es tracti d’una ordenança o reglament de caràcter organitzatiu",
+      "Quan es tracti d’una ordenança o reglament de caràcter urbanístic",
+      "Quan es tracti de l’ordenança de civisme i convivència ciutadana"
+    ],
+    "resposta": "Quan es tracti d’una ordenança o reglament de caràcter organitzatiu"
+  },
+  {
+    "pregunta": "D’acord amb el Reglament de patrimoni dels ens locals, són béns de domini públic:",
+    "opcions": [
+      "Els bens patrimonials",
+      "Els béns comunals",
+      "Els que la llei declari amb aquest caràcter.",
+      "Totes les respostes són correctes."
+    ],
+    "resposta": "Els que la llei declari amb aquest caràcter."
+  },
+  {
+    "pregunta": "Quin dels següents drets NO té la consideració de dret fonamental previst al Títol, I, Capítol\nII, Secció I de la Constitució Espanyola:",
+    "opcions": [
+      "Dret a l’honor",
+      "Dret a la creació artística",
+      "Dret al treball",
+      "Dret de reunió pacífica"
+    ],
+    "resposta": "Dret al treball"
+  },
+  {
+    "pregunta": "Quina de les següents atribucions de l’Alcalde és delegable:",
+    "opcions": [
+      "Dirigir el govern i l’Administració Municipals",
+      "Aprovar l’oferta pública d’ocupació\nb) Aprovar l’oferta pública d’ocupació",
+      "Exercir accions judicials",
+      "Exercir la prefectura de tot el personal"
+    ],
+    "resposta": "Aprovar l’oferta pública d’ocupació\nb) Aprovar l’oferta pública d’ocupació"
+  },
+  {
+    "pregunta": "Són persones interessades en un procediment administratiu:",
+    "opcions": [
+      "Les persones que el promoguin com a titulars de drets o interessos legítims individuals o\ncol·lectius.",
+      "Les persones que, sense haver iniciat el procediment, tinguin drets que puguin ser afectats per\nla decisió que s’adopti en aquest.",
+      "Aquelles persones, els interessos legítims de les quals, puguin ser afectats per la resolució i es\npersonin en el procediment mentre no s’hagi dictat una resolució definitiva.",
+      "Les tres respostes anteriors són correctes."
+    ],
+    "resposta": "Les tres respostes anteriors són correctes."
+  },
+  {
+    "pregunta": "Quin dels següents contractes NO té la consideració de contracte administratiu: administratiu:",
+    "opcions": [
+      "Un contracte de concessió d’obra pública, consistent en la construcció i posterior gestió de la\npiscina municipal",
+      "Un contracte de subministrament, mitjançant renting, d’un vehicle",
+      "Un contracte d’arrendament d’un local",
+      "Un contracte del servei de consergeria dels equipaments esportius municipals"
+    ],
+    "resposta": "Un contracte d’arrendament d’un local"
+  },
+  {
+    "pregunta": "En relació als tributs propis del municipi, quina és la resposta INCORRECTA?",
+    "opcions": [
+      "Els ajuntaments podran establir i exigir l’Impost sobre Construccions, Instal·lacions i Obres i\nl’Impost sobre l’Increment de Valor dels terrenys de Naturalesa Urbana.",
+      "Els ajuntaments podran exigir taxes per la prestació de serveis o la realització d’activitats de la\nseva competència.",
+      "Els ajuntaments exigiran, en tot cas i amb caràcter obligatori, els impostos següents: Impost\nsobre Bens Immobles, Impost sobre Activitats Econòmiques i Impost sobre Vehicles de Tracció\nMecànica.",
+      "Els ajuntaments no podran exigir taxes per la utilització privativa o l’aprofitament especial dels\nbens de domini públic municipal"
+    ],
+    "resposta": "Els ajuntaments no podran exigir taxes per la utilització privativa o l’aprofitament especial dels\nbens de domini públic municipal"
+  },
+  {
+    "pregunta": "D’acord amb l’article 13 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú\nde les administracions públiques, els drets de les persones en les seves relacions amb les\nadministracions públiques inclouen:",
+    "opcions": [
+      "Conèixer fins al tràmit d’audiència, com a interessat en un procediment, l’estat de tramitació.",
+      "Ser assistits en l’ús de mitjans electrònics.",
+      "A rebre un tracte diferencial per afavorir els seus interessos.",
+      "Les respostes a i c són correctes"
+    ],
+    "resposta": "Ser assistits en l’ús de mitjans electrònics."
+  },
+  {
+    "pregunta": "Quines persones no tenen l’obligació de relacionar-se amb les administracions públiques a\ntravés de mitjans electrònics per a la realització de qualsevol tràmit d’un procediment\nadministratiu:",
+    "opcions": [
+      "Les persones jurídiques",
+      "Les entitats sense personalitat jurídica",
+      "Els qui exerceixin un activitat professional per la qual es requereixi col·legiació obligatòria per\nals tràmits i actuacions que portin a terme amb les administracions públiques en exercici d’aquesta\nactivitat professional. En tot cas, dins d’aquest col·lectiu s’hi entenen inclosos els notaris i\nregistradors de la propietat i mercantils",
+      "Les persones físiques"
+    ],
+    "resposta": "Les persones físiques"
+  },
+  {
+    "pregunta": "Contra un Decret d’Alcaldia pel qual s’inicia un procediment de Contra un Decret d’Alcaldia\npel qual s’inicia un procediment de responsabilitat patrimonial, pot interposar-se recurs?:",
+    "opcions": [
+      "Si, recurs d’alçada davant el Ple",
+      "Si, recurs de reposició davant l’Alcalde",
+      "Només pot interposar-se recurs contenciós administratiu davant el Jutjat Contenciós\nAdministratiu",
+      "No és susceptible de recurs per tractar-se d’un acte de tràmit no qualificat."
+    ],
+    "resposta": "No és susceptible de recurs per tractar-se d’un acte de tràmit no qualificat."
+  },
+  {
+    "pregunta": "La resolució que posi fi a un procediment sancionador serà executiva:",
+    "opcions": [
+      "En el mateix moment de dictar-se",
+      "En el moment en que es notifiqui a l’infractor",
+      "Només quan no sigui possible interposar-hi en contra cap recurs administratiu ordinari",
+      "La sanció serà executiva just en el moment de dictar-se la proposta de resolució"
+    ],
+    "resposta": "Només quan no sigui possible interposar-hi en contra cap recurs administratiu ordinari"
+  },
+  {
+    "pregunta": "En relació als drets de les persones regulats a la normativa de protecció de dades, Llei\n3/2018, tria la resposta correcta:",
+    "opcions": [
+      "El responsable del tractament estarà obligat a informar a l’afectat sobre els mitjans a la seva\ndisposició per exercir els drets que li corresponguin.",
+      "Els mitjans hauran de ser fàcilment accessibles per l’afectat.",
+      "La prova del compliment del deure de respondre a la sol·licitud d’exercici dels seus drets\nformulat per l’afectat recaurà sobre el responsable",
+      "Totes les respostes anteriors són correctes"
+    ],
+    "resposta": "Totes les respostes anteriors són correctes"
+  },
+  {
+    "pregunta": "En relació als drets d’accés a la informació pública quina és la resposta incorrecta:",
+    "opcions": [
+      "L’exercici del dret d’accés no està condicionat a la concurrència d’un interès personal.",
+      "Es pot exercir a partir dels divuit anys",
+      "Les persones tenen el dret d’accedir a la informació pública a títol individual o en nom i\nrepresentació de qualsevol persona jurídica legalment constituïda",
+      "L’exercici del dret d’accés no està subjecte a motivació i no requereix la innovació de cap\nnorma."
+    ],
+    "resposta": "Es pot exercir a partir dels divuit anys"
+  },
+  {
+    "pregunta": "D’acord amb el text refós de l’Estatut Bàsic de l’Empleat Públic, els sistemes de selecció de\nfuncionaris de carrera són:",
+    "opcions": [
+      "Únicament el concurs-oposició i l’oposició",
+      "L’oposició, i excepcionalment, el concurs-oposició",
+      "El concurs de mèrits i, excepcionalment, l’oposició",
+      "L’oposició, el concurs-oposició i, excepcionalment, el concurs"
+    ],
+    "resposta": "L’oposició, el concurs-oposició i, excepcionalment, el concurs"
+  },
+  {
+    "pregunta": "L’edifici propietat de l’Ajuntament en el que s’ubica un museu municipal té la qualificació\njurídica de:",
+    "opcions": [
+      "Be de domini públic",
+      "Be patrimonial",
+      "Be comunal",
+      "Be de caràcter social"
+    ],
+    "resposta": "Be de domini públic"
+  },
+  {
+    "pregunta": "Quin és el procediment ordinari d’atorgament de les subvencions?",
+    "opcions": [
+      "El de concessió directa d’acord amb les previsions pressupostàries",
+      "El de concurrència competitiva",
+      "El que en cada moment estableixin les bases reguladores",
+      "Qualsevol de les anteriors"
+    ],
+    "resposta": "El de concurrència competitiva"
+  },
+  {
+    "pregunta": "Els Ajuntaments acordaran la caducitat de les inscripcions padronals dels estrangers no\ncomunitaris sense autorització de residència permanent (ENCSARP) que no s’hagin renovat:",
+    "opcions": [
+      "Cada any, d’acord amb el previst en l’article 16.1 de la Llei 7/1985, de 2 d’abril.",
+      "Cada cinc anys, d’acord amb el previst en l’article 16.1 de la Llei 7/1985, de 2 d’abril.",
+      "Cada dos anys, d’acord amb el previst en l’article 16.1 de la Llei 7/1985, de 2 d’abril.",
+      "Cada quatre anys, d’acord amb el previst en l’article 16.1 de la Llei 7/1985, de 2 d’abril."
+    ],
+    "resposta": "Cada dos anys, d’acord amb el previst en l’article 16.1 de la Llei 7/1985, de 2 d’abril."
+  },
+  {
+    "pregunta": "En relació al pressupost general de les entitats locals, assenyala la resposta INCORRECTA:",
+    "opcions": [
+      "L’exercici pressupostari coincideix amb l’any natural",
+      "Un cop aprovat inicialment el pressupost general, s’exposarà al públic per un període de 30\ndies, durant els quals els interessats podran presentar reclamacions.",
+      "L’aprovació definitiva del pressupost general pel Ple de la corporació s’haurà de realitzar abans\ndel 31 de desembre de l’any anterior al de l’exercici en que s’hagi d’aplicar.",
+      "Els pressupostos generals de les entitats locals constitueixen l’expressió xifrada, conjunta i\nsistemàtica de les obligacions que, com a màxim, poden reconèixer l’entitat i els seus organismes\nautònoms, i dels drets que preveuen liquidar durant el corresponent exercici, així com de les\nprevisions d’ingressos i despeses de les societats mercantils el capital social de les quals pertany\níntegrament a l’entitat local corresponent."
+    ],
+    "resposta": "Un cop aprovat inicialment el pressupost general, s’exposarà al públic per un període de 30\ndies, durant els quals els interessats podran presentar reclamacions."
+  },
+  {
+    "pregunta": "A la memòria justificativa d’un conveni s’ha d’acreditar necessàriament:",
+    "opcions": [
+      "La necessitat i oportunitat de la celebració del conveni",
+      "L’impacte econòmic del conveni",
+      "El caràcter no contractual del conveni",
+      "Totes les respostes són correctes"
+    ],
+    "resposta": "Totes les respostes són correctes"
+  },
+  {
+    "pregunta": "Perquè la notificació sigui correcta ha de contenir:",
+    "opcions": [
+      "El text íntegre de la resolució, l’expressió dels recursos que siguin procedents i la indicació d’un\nòrgan diferent del que ha dictat la resolució i l’acte administratiu.",
+      "El text íntegre de la resolució, la indicació de si l’acte notificat posa fi o no a la via\nadministrativa, els recursos procedents, òrgan davant el qual s’han de presentar els recursos, els\nterminis per interposar-los",
+      "El text resumit de la resolució, els recursos no procedents, l’ òrgan davant el qual s’han de\npresentar els recursos i els terminis per interposar-los.",
+      "El text íntegre de la resolució, els recursos procedents i l’ òrgan davant el qual s’han\nd’interposar els recursos indicant un termini il·limitat per interposar-los."
+    ],
+    "resposta": "El text íntegre de la resolució, la indicació de si l’acte notificat posa fi o no a la via\nadministrativa, els recursos procedents, òrgan davant el qual s’han de presentar els recursos, els\nterminis per interposar-los"
+  },
+  {
+    "pregunta": "Si la notificació no conté el text íntegre de l’acte:",
+    "opcions": [
+      "Es considera vàlida sempre i quan hi consti el peu de recurs",
+      "Es tracta d’una notificació defectuosa",
+      "Es tracta d’una notificació fora de termini",
+      "Es tracta d’un vici que no produeix efectes"
+    ],
+    "resposta": "Es tracta d’una notificació defectuosa"
+  },
+  {
+    "pregunta": "El dret d’accés a la informació pública pot ser denegat o restringit si el coneixement o la\ndivulgació de la informació comporta un perjudici per a:",
+    "opcions": [
+      "La seguretat pública",
+      "La intimitat i els altres drets privats legítims",
+      "El secret professional i els drets de propietat intel·lectual i industrial",
+      "Totes les respostes són certes"
+    ],
+    "resposta": "Totes les respostes són certes"
+  },
+  {
+    "pregunta": "Quin dels següents drets té la consideració de dret fonamental, d’acord amb allò previst al\ntítol I, capítol II, secció I, de la Constitució?",
+    "opcions": [
+      "Dret a la llibertat d’empresa.",
+      "Dret a l’honor.",
+      "Dret a la propietat privada.",
+      "Dret al treball."
+    ],
+    "resposta": "Dret a l’honor."
+  },
+  {
+    "pregunta": "Quina de les següents matèries és, en tot cas, competència del Ple?",
+    "opcions": [
+      "Aprovar l’oferta pública de treball.",
+      "Sancionar les faltes per infracció de les ordenances municipals.",
+      "Atorgar llicències urbanístiques.",
+      "Aprovar les ordenances fiscals."
+    ],
+    "resposta": "Aprovar les ordenances fiscals."
+  },
+  {
+    "pregunta": "És un dret individual dels empleats públics:",
+    "opcions": [
+      "Dret a la llibertat sindical",
+      "Dret a la lliure associació professional",
+      "Dret a la negociació col·lectiva i a la participació en la determinació de les condicions de treball.",
+      "Cap resposta és correcta."
+    ],
+    "resposta": "Dret a la lliure associació professional"
+  },
+  {
+    "pregunta": "Quins dels següents contractes NO està subjecte a regulació harmonitzada?",
+    "opcions": [
+      "Un contracte de concessió d’obra pública amb un valor estimat de 8.000.000 €, IVA a part.",
+      "Un contracte de concessió de servei amb un valor estimat de 5.500.000 €, IVA a part.",
+      "Un contracte de servei amb un valor estimat de 225.000 €, IVA a part.",
+      "Un contracte d’obra amb un valor estimat de 5.250.000 €, IVA a part."
+    ],
+    "resposta": "Un contracte d’obra amb un valor estimat de 5.250.000 €, IVA a part."
+  },
+  {
+    "pregunta": "En relació als tributs propis del municipi, quina és la resposta correcta?",
+    "opcions": [
+      "Els ajuntaments podran exigir taxes per la prestació de serveis o la realització d’activitats de la\nseva competència i no en podran exigir per la utilització privativa o l’aprofitament especial dels\nbens de per la utilització privativa o l’aprofitament especial dels bens de domini públic municipal.",
+      "Els ajuntaments exigiran, en tot cas i amb caràcter obligatori, els impostos següents: Impost\nsobre Bens Immobles, Impost sobre Activitats Econòmiques, Impost sobre Vehicles de Tracció\nMecànica i Impost sobre l’Increment de Valor dels Terrenys de Naturalesa Urbana.",
+      "Constitueix el fet imposable de l’Impost sobre Bens Immobles la titularitat dels següents drets\nsobre els béns immobles rústics i urbans i sobre els immobles de característiques especials: a)\nD’una concessió administrativa sobre els propis immobles o sobre els serveis públics a què\nestiguin adscrits, b) D’un dret real de superfície, c) D’un dret real d’usdefruit,",
+      "Del dret de\npropietat.\nd) En l’Impost sobre Vehicles de Tracció Mecànica no procedeix el prorrateig de la quota en els\nsupòsits de baixa temporal per sostracció o robatori del vehicle."
+    ],
+    "resposta": "Constitueix el fet imposable de l’Impost sobre Bens Immobles la titularitat dels següents drets\nsobre els béns immobles rústics i urbans i sobre els immobles de característiques especials: a)\nD’una concessió administrativa sobre els propis immobles o sobre els serveis públics a què\nestiguin adscrits, b) D’un dret real de superfície, c) D’un dret real d’usdefruit,"
+  },
+  {
+    "pregunta": "D’acord amb l’article 13 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú\nde les administracions públiques, els drets de les persones en les seves relacions amb les\nadministracions públiques inclouen: les administracions públiques inclouen:",
+    "opcions": [
+      "Conèixer en qualsevol moment, com a interessat en un procediment, l’estat de tramitació.",
+      "Ser assistits en l’ús de mitjans electrònics.",
+      "La protecció de les dades de caràcter personal.",
+      "Totes són correctes."
+    ],
+    "resposta": "Totes són correctes."
+  },
+  {
+    "pregunta": "Quan la notificació per mitjans electrònics sigui de caràcter obligatori, o hagi estat escollida\nexpressament per l’interessat, s’entén rebutjada:",
+    "opcions": [
+      "Quan hagin transcorregut deu dies hàbils des de la posada a disposició de la notificació sense\nque s’accedeixi al seu contingut.",
+      "Quan hagin transcorregut quinze dies hàbils des de la posada a disposició de la notificació\nsense que s’accedeixi al seu contingut.",
+      "Quan hagin transcorregut deu dies naturals des de la posada a disposició de la notificació\nsense que s’accedeixi al seu contingut.",
+      "Quan s’hagi intentat dues vegades la notificació."
+    ],
+    "resposta": "Quan hagin transcorregut deu dies naturals des de la posada a disposició de la notificació\nsense que s’accedeixi al seu contingut."
+  },
+  {
+    "pregunta": "D’acord amb l’article 125 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu\ncomú de les administracions públiques, el recurs extraordinari de revisió es pot interposar\ncontra:",
+    "opcions": [
+      "Els actes que exhaureixin la via administrativa.",
+      "Qualsevol acte administratiu.",
+      "Els actes desfavorables.",
+      "Els actes ferms en via administrativa."
+    ],
+    "resposta": "Els actes ferms en via administrativa."
+  },
+  {
+    "pregunta": "Quins dels següents NO és un element que hagi de figurar en la resolució d’inici d’un\nprocediment sancionador:",
+    "opcions": [
+      "Identificació de la persona o persones responsables.",
+      "Tipus de recurs administratiu que es pot interposar",
+      "Els fets que motiven la instrucció del procediment.",
+      "La possible qualificació dels fets com a infracció lleu, greu o molt greu."
+    ],
+    "resposta": "Tipus de recurs administratiu que es pot interposar"
+  },
+  {
+    "pregunta": "En relació a la Llei Orgànica 3/2018 de 5 de Desembre, de protecció de dades personals i\ngarantia dels drets digitals, marca la resposta correcta:",
+    "opcions": [
+      "La llei reconeix els següents drets: dret d’accés, dret de rectificació, dret de supressió, dret a la\nlimitació del tractament, dret a la dret de supressió, dret a la limitació del tractament, dret a la\nportabilitat i dret d’oposició",
+      "La Llei reconeix els següents drets: dret d’accés limitat, dret de rectificació, dret de omissió, dret\na la limitació del tractament, dret a la portabilitat i dret a l’oposició",
+      "La Llei reconeix els següents drets: dret d’accés il·limitat, dret de rectificació, dret de no omissió,\ndret a la no limitació del tractament, dret a la portabilitat i dret a l’oposició",
+      "La llei reconeix els següents drets: dret d’accés, dret de rectificació, dret de no supressió, dret a\nla limitació del tractament, dret a la no portabilitat i dret d’oposició il·limitat."
+    ],
+    "resposta": "La llei reconeix els següents drets: dret d’accés, dret de rectificació, dret de supressió, dret a la\nlimitació del tractament, dret a la dret de supressió, dret a la limitació del tractament, dret a la\nportabilitat i dret d’oposició"
+  },
+  {
+    "pregunta": "Respecte al dret d’accés a la informació pública, quina és la resposta incorrecta?",
+    "opcions": [
+      "Està condicionat a la concurrència d’un interès personal.",
+      "No resta subjecte a motivació.",
+      "Hi ha límit d’edat a partir del qual es pot exercir.",
+      "Inclou qualsevol forma o suport en què aquesta informació hagi estat elaborada."
+    ],
+    "resposta": "Està condicionat a la concurrència d’un interès personal."
+  },
+  {
+    "pregunta": "D’acord amb el text refós de l’Estatut Bàsic de l’Empleat Públic, els sistemes de selecció de\nfuncionaris de carrera són:",
+    "opcions": [
+      "Únicament el concurs-oposició i l’oposició",
+      "L’oposició, i excepcionalment, el concurs-oposició",
+      "El concurs de mèrits i, excepcionalment, l’oposició",
+      "L’oposició, el concurs-oposició i, excepcionalment, el concurs"
+    ],
+    "resposta": "L’oposició, el concurs-oposició i, excepcionalment, el concurs"
+  },
+  {
+    "pregunta": "Quina de les següents afirmacions relatives als béns de domini públic NO és certa:",
+    "opcions": [
+      "Es poden alienar.",
+      "No es poden embargar.",
+      "Es pot autoritzar el seu ús a particulars.",
+      "Són imprescriptibles."
+    ],
+    "resposta": "Es poden alienar."
+  },
+  {
+    "pregunta": "Quin és el termini màxim per resoldre i notificar la resolució d’un procediment d’una\nsubvenció?",
+    "opcions": [
+      "3 mesos des de l’endemà de la data de la sol·licitud.",
+      "6 mesos des de la data de l’acord d’iniciació.",
+      "6 mesos des de l’endemà de la data de la sol·licitud.",
+      "6 mesos des de la data de publicació de la corresponent convocatòria."
+    ],
+    "resposta": "6 mesos des de la data de publicació de la corresponent convocatòria."
+  },
+  {
+    "pregunta": "Respecte a la recaptació tributària a l’administració local, assenyala la resposta incorrecta:",
+    "opcions": [
+      "La recaptació en període voluntari s’iniciarà a partir de la data de la notificació de la liquidació a\nl’obligat al pagament.",
+      "La recaptació en període voluntari s’iniciarà a partir de la data de la notificació de\nl’autoliquidació a l’obligat al pagament.",
+      "La recaptació en període voluntari finalitzarà el dia de venciment dels corresponents terminis\nd’ingrés.",
+      "Els obligats al pagament podran pagar total o parcialment els deutes en període voluntari i per\nla quantitat no pagada s’iniciarà el període executiu."
+    ],
+    "resposta": "La recaptació en període voluntari s’iniciarà a partir de la data de la notificació de\nl’autoliquidació a l’obligat al pagament."
+  },
+  {
+    "pregunta": "Una persona que durant l’any visqui uns mesos en un domicili i uns altres en un altre de\ndiferent població, a quin s’haurà d’empadronar?",
+    "opcions": [
+      "A tots dos",
+      "A qualsevol dels dos, a decisió seva.",
+      "En el que resideixi més temps a l’any.",
+      "En el que hagi viscut més temps en el còmput dels darrers 5 anys."
+    ],
+    "resposta": "En el que resideixi més temps a l’any."
+  },
+  {
+    "pregunta": "Quin dels següents tràmits NO és un tràmit preceptiu per a l’aprovació d’un conveni per part\nd’una Administració pública, d’acord amb el que preveu al respecte la Llei 40/2015, de règim\ndel sector públic.",
+    "opcions": [
+      "Publicar en el perfil del contractant una anunci perquè els interessats puguin formular les seves\npropostes.",
+      "Justificar a l’expedient la necessitat i l’oportunitat de celebrar el conveni.",
+      "Elaborar una memòria justificativa en la que s’analitzi, entra d’altres aspectes, l’impacte\neconòmic.",
+      "Justificar a l’expedient el caràcter no contractual del conveni."
+    ],
+    "resposta": "Publicar en el perfil del contractant una anunci perquè els interessats puguin formular les seves\npropostes."
+  },
+  {
+    "pregunta": "Quina d’aquestes afirmacions és correcta pel que fa a les fases del procediment\nadministratiu?",
+    "opcions": [
+      "El procediment administratiu només es pot iniciar d’ofici.",
+      "Els actes d’instrucció es poden dur a terme d’ofici o a instància de part.",
+      "El desistiment és una forma de terminació del procediment.",
+      "Totes són correctes."
+    ],
+    "resposta": "El desistiment és una forma de terminació del procediment."
+  },
+  {
+    "pregunta": "Tria la resposta correcta. Els empleats públics:",
+    "opcions": [
+      "Han d’intervenir en els assumptes en què tinguin un interès personal, així com en tota activitat\nprivada o interès que pugui representar un risc de plantejar conflictes d’interessos amb el seu lloc\npúblic.",
+      "Han de guardar secret de les matèries no classificades o altres la difusió de les quals estigui\npermesa legalment.",
+      "No han d’influir en l’agilització o resolució de tràmit o procediment administratiu sense una\ncausa justa i, en cap cas, quan això comporti un privilegi en benefici dels titulars dels càrrecs\npúblics o el seu entorn familiar i social immediat o quan impliqui un menyscabament dels\ninteressos de tercers.",
+      "Totes les respostes són certes."
+    ],
+    "resposta": "No han d’influir en l’agilització o resolució de tràmit o procediment administratiu sense una\ncausa justa i, en cap cas, quan això comporti un privilegi en benefici dels titulars dels càrrecs\npúblics o el seu entorn familiar i social immediat o quan impliqui un menyscabament dels\ninteressos de tercers."
+  },
+  {
+    "pregunta": "Quin dels següents drets no té la consideració de dret dels empleats públics, d’acord amb\nl’Estatut Bàsic de l’Empleat Públic?",
+    "opcions": [
+      "Dret a la inamobilitat en la condició de funcionari de carrera.",
+      "Dret a reingressar exactament al mateix lloc de treball que ocupava després de haver-li\nconcedit una excedència voluntària per interès particular.",
+      "Dret a la progressió en la carrera professional i promoció interna segons els principis d’igualtat,\nmèrit i capacitat.",
+      "Dret a les vacances, descansos, permisos i llicències."
+    ],
+    "resposta": "Dret a reingressar exactament al mateix lloc de treball que ocupava després de haver-li\nconcedit una excedència voluntària per interès particular."
+  },
+  {
+    "pregunta": "Quin dels següents drets NO té la consideració de Dret Fonamental, d’acord amb la\nConstitució Espanyola de 1978:",
+    "opcions": [
+      "Dret a la vida i a la integritat física i moral",
+      "Dret a la llibertat d’expressió",
+      "Dret a l’honor",
+      "Dret a la propietat privada"
+    ],
+    "resposta": "Dret a la propietat privada"
+  },
+  {
+    "pregunta": "Quina de les següents atribucions de l’Alcalde és delegable:",
+    "opcions": [
+      "Convocar i presidir les sessions del Ple i de la Junta de Govern Local",
+      "Exercir la direcció de la Policia Municipal",
+      "Decidir empats amb el vot de qualitat",
+      "Dictar Bans"
+    ],
+    "resposta": "Exercir la direcció de la Policia Municipal"
+  },
+  {
+    "pregunta": "Posa fi al procediment administratiu:",
+    "opcions": [
+      "La impossibilitat material de continuar-lo per causes sobrevingudes",
+      "La declaració de caducitat",
+      "El desistiment",
+      "Totes són correctes"
+    ],
+    "resposta": "Totes són correctes"
+  },
+  {
+    "pregunta": "És un dret dels empleats públics que es pot exercir col·lectivament:",
+    "opcions": [
+      "Dret a la llibertat sindical",
+      "A la lliure associació professional",
+      "Dret de reunió",
+      "Les respostes a i c són certes"
+    ],
+    "resposta": "Les respostes a i c són certes"
+  },
+  {
+    "pregunta": "Estan obligats a relacionar-se a través de mitjans electrònics amb les administracions\npúbliques per a qualsevol tràmit d’un procediment administratiu:",
+    "opcions": [
+      "Les persones físiques",
+      "Les entitats sense personalitat jurídica",
+      "Els empleats de les administracions públiques per tràmits i actuacions que realitzin amb\naquestes per raó de la seva condició com empleat públic, en la forma en que es determini\nreglamentàriament per cada Administració.",
+      "Les respostes b) i c) són correctes"
+    ],
+    "resposta": "Les respostes b) i c) són correctes"
+  },
+  {
+    "pregunta": "Una notificació d’un acord (per exemple un decret o acord de junta de govern o de Ple) feta\nper correu electrònic compleix els requisits legals?",
+    "opcions": [
+      "Si, sempre",
+      "Si, quan va acompanyat d’un avís de recepció i lectura",
+      "No, mai",
+      "Si, a vegades."
+    ],
+    "resposta": "No, mai"
+  },
+  {
+    "pregunta": "Segons el Titol II de la Llei orgànica 3/2008 de protecció de dades personals i garantía dels\ndrets digitals, és un principi de protecció de dades:",
+    "opcions": [
+      "El consentiment dels/les menors d’edat",
+      "La transparència i informació a la persona afectada",
+      "El dret a la limitació del tractament",
+      "El dret de rectificació"
+    ],
+    "resposta": "El consentiment dels/les menors d’edat"
+  },
+  {
+    "pregunta": "El procediment per a l’exercici d’accés a la informació pública, s’iniciarà amb la corresponent\nsol·licitud dirigida a l’òrgan titular que tingui la informació. Quin element no és necessari que consti\nen la sol·licitud?",
+    "opcions": [
+      "La identitat del sol.licitant",
+      "La informació que sol.licita",
+      "Una adreça de contacte, preferentment electrònica, a efectes de comunicacions",
+      "El motiu d’accés a la informació"
+    ],
+    "resposta": "El motiu d’accés a la informació"
+  },
+  {
+    "pregunta": "En relació a la representació de les persones interessades, tria la resposta correcta:",
+    "opcions": [
+      "Els interessats amb capacitat d’obrar podran actuar per mitjà d’un representant, entenent-se\namb aquest les actuacions administratives, excepte manifestació expressa en contra de\nl’interessat.",
+      "Les persones físiques amb capacitat d’obrar i les persones jurídiques sempre que estigui previst\nen els seus Estatuts, podran actuar en representació d’altres davant les administracions públiques",
+      "La representació podrà acreditar-se mitjançant qualsevol mitjà vàlid en dret que es deixi\nconstància fidedigna de la seva existència.",
+      "Totes les respostes són certes"
+    ],
+    "resposta": "Totes les respostes són certes"
+  },
+  {
+    "pregunta": "Les persones inscrites en el padró d’espanyols residents a l’estranger es consideraran:\nl’estranger es consideraran:",
+    "opcions": [
+      "Veïns del municipi espanyol que figura en les dades de la seva inscripció sense efectes de\nl’exercici del dret de sufragi, no constituint, en cap cas, població del municipi.",
+      "Veïns del municipi espanyol que figura en les dades de la seva inscripció únicament a efectes\nde l’exercici del dret de sufragi, no constituint, en cap cas, població del municipi.",
+      "Població del municipi espanyol que figura en les dades de la seva inscripció sense efectes de\nl’exercici del dret de sufragi, no constituint, en cap cas, veïns del municipi.",
+      "Població del municipi espanyol que figura en les dades de la seva inscripció únicament a\nefectes de l’exercici del dret de sufragi, no constituint, en cap cas, veïns del municipi."
+    ],
+    "resposta": "Veïns del municipi espanyol que figura en les dades de la seva inscripció únicament a efectes\nde l’exercici del dret de sufragi, no constituint, en cap cas, població del municipi."
+  },
+  {
+    "pregunta": "Escull la resposta correcta. Els empleats públics:",
+    "opcions": [
+      "Han d’intervenir en els assumptes en què tinguin un interès personal, així com de tota l’activitat\nprivada o interès que pugui representar un risc de plantejar conflictes d’interessos amb el seu lloc\npúblic.",
+      "Han de guardar secret de les matèries no planificades o altres la difusió de les quals estigui\npermesa legalment.",
+      "No han d’influir en l’agilització o resolució de tràmit o procediment administratiu sense una\ncausa justa, i en cap cas, quan això comporti un privilegi en benefici dels titulars dels càrrecs\npúblics o el seu entorn familiar i social immediat o quan impliqui un menyscabament dels\ninteressos de tercers.",
+      "Totes les respostes són certes."
+    ],
+    "resposta": "No han d’influir en l’agilització o resolució de tràmit o procediment administratiu sense una\ncausa justa, i en cap cas, quan això comporti un privilegi en benefici dels titulars dels càrrecs\npúblics o el seu entorn familiar i social immediat o quan impliqui un menyscabament dels\ninteressos de tercers."
+  },
+  {
+    "pregunta": "En relació als protocols de relació recollits en el manual d’estil de l’atenció presencial a les\noficines d’Atenció Ciutadana, en la comunicació cara a cara és recomanable (Marca la resposta\nincorrecte) :",
+    "opcions": [
+      "Cal provocar que l’interlocutor parli sense limitacions, sincerament, sense voltes, amb opinió i\npercepció del seu problema.",
+      "Abans de començar a donar respostes o orientacions, cal ordenar les pròpies idees amb la\ninformació que ja disposem.",
+      "Utilitzar tecnicismes, anar al gra i cercar explicacions curtes i simples.",
+      "Introduir ràpidament en la conversa informació que pugui focalitzar l’entrevista cap a la solució\ndel tema."
+    ],
+    "resposta": "Utilitzar tecnicismes, anar al gra i cercar explicacions curtes i simples."
+  },
+  {
+    "pregunta": "D’acord amb la llei de prevenció de riscos laborals 31/1995, l’empresa aplicarà les mesures\nque integren el deure general de prevenció d’acord amb els següents principis generals :",
+    "opcions": [
+      "Evitar els riscos",
+      "Avaluar els riscos que no es poden evitar",
+      "Adaptar mesures que anteposin la protecció col.lectiva a la individual",
+      "Totes les respostes són certes"
+    ],
+    "resposta": "Totes les respostes són certes"
+  },
+  {
+    "pregunta": "Tots els Ajuntaments estan obligats a exigir l’impost:",
+    "opcions": [
+      "Sobre renda de les persones físiques",
+      "Sobre el patrimoni",
+      "Sobre activitats econòmiques",
+      "Sobre l’increment del valor del terreny"
+    ],
+    "resposta": "Sobre activitats econòmiques"
+  },
+  {
+    "pregunta": "Respecte al procediment per a la exigència de la responsabilitat de les autoritats i el personal\nal servei de l’administració pública, el termini d’audiència serà de:",
+    "opcions": [
+      "7 dies",
+      "10 dies",
+      "15 dies",
+      "20 dies"
+    ],
+    "resposta": "10 dies"
+  },
+  {
+    "pregunta": "Es motiu d’abstenció tenir un parentesc amb qualsevol dels interessats, amb els\nadministradors d’entitats o societats interessades i també amb els assessors, representants legals\no mandataris que intervinguin en el procediment:",
+    "opcions": [
+      "De consanguinitat dins el segon grau o d’afinitat dins del quart",
+      "De consanguinitat dins el quart grau o d’afinitat dins del segon",
+      "De consanguinitat dins el tercer grau o d’afinitat dins del primer",
+      "De consanguinitat dins el primer grau o d’afinitat dins del tercer"
+    ],
+    "resposta": "De consanguinitat dins el quart grau o d’afinitat dins del segon"
+  },
+  {
+    "pregunta": "En relació amb el procediment d’aprovació d’ordenances i reglaments previst a la Llei\nMunicipal aprovada mitjançant Decret Legislatiu 2/2003 de 28 d’abril, indica quina de les\nafirmacions següents és la més correcte:",
+    "opcions": [
+      "Aprovació inicial d’una ordenança i un reglament s’ha de dur a terme pel Ple municipal",
+      "L’aprovació d’una ordenança i reglament municipal s’ha de sotmetre a informació pública i\naudiència dels interessats, per un període mínim de trenta dies perquè puguin presentar\nreclamacions i suggeriments.",
+      "La resolució de totes les reclamacions i els suggeriments presentats i aprovació definitiva per la\nJunta de Govern. En cas de no haver-hi cap reclamació o suggeriment, l’acord inicial esdevindrà\ndefinitiu.",
+      "Les respostes a) i b) són certes."
+    ],
+    "resposta": "Les respostes a) i b) són certes."
+  },
+  {
+    "pregunta": "En relació al funcionament electrònic del sector públic:",
+    "opcions": [
+      "La seu electrònica és l’adreça electrónica disponible per als ciutadans a través de xarxes de\ntelecomunicacions, la titularitat de la qual correspon a una Administració Pública, o bé a un o\ndiversos organismes públics o entitats de dret públic en l’excercici de les seves competències",
+      "Les administracions públiques es poden identificar mitjnaçant l’ ús d’un segell electrònic basat\nen un certificat electrònic reconegut o qualificat que compleixi els requists exigits per la legislació\nde la signatura electrònica.",
+      "Tots els documents utitlitzats en les actuacions administratives s’han d’emmagatzemar per\nMitjans electrònics, excepte quan no sigui possible",
+      "Totes les respostes són certes"
+    ],
+    "resposta": "Totes les respostes són certes"
+  },
+  {
+    "pregunta": "D’acord amb allò previst a la Llei 39/2015, de Procediment Administratiu Comú, els informes,\ncom a norma general:",
+    "opcions": [
+      "Tindran caràcter preceptiu i no vinculant",
+      "Tindran caràcter facultatiu i no vinculant",
+      "Tindran caràcter preceptiu i vinculant",
+      "Cap resposta és correcta"
+    ],
+    "resposta": "Tindran caràcter facultatiu i no vinculant"
+  },
+  {
+    "pregunta": "El fet imposable de les taxes està constituït:",
+    "opcions": [
+      "Per la utilització pública o l’aprofitament especial del domini públic local.",
+      "Per la utilització privativa o l’aprofitament especial del domini públic local i per la prestació de\nserveis o la realització d’activitats administratives de competència local que afectin o beneficiïn de\nmanera particular els subjectes passius o s’hi refereixin.",
+      "Per la prestació de serveis o la realització d’activitats administratives de competència local que\nafectin o beneficiïn de manera particular els subjectes passius o s’hi refereixin",
+      "Per la utilització privativa o l’aprofitament especial del domini públic local"
+    ],
+    "resposta": "Per la utilització privativa o l’aprofitament especial del domini públic local i per la prestació de\nserveis o la realització d’activitats administratives de competència local que afectin o beneficiïn de\nmanera particular els subjectes passius o s’hi refereixin."
+  },
+  {
+    "pregunta": "En relació als protocols de relació recollits en el manual d’estil de l’atenció presencial a les\noficines d’Atenció Ciutadana, en el cas que no arribem a entendre el que la persona usuària\nexpressa (Marca la resposta incorrecte) :",
+    "opcions": [
+      "Evitar que la persona se senti incapacitada per expressar-se",
+      "Responsabilitzar aquesta manca de comprensió a la seva exposició",
+      "Resumir amb les nostres paraules el que hem entès i plantejar després els nostres dubtes",
+      "Demanar un exemple del que s’està preguntant"
+    ],
+    "resposta": "Responsabilitzar aquesta manca de comprensió a la seva exposició"
+  },
+  {
+    "pregunta": "Si la notificació no conté el text íntegra de l’acte:",
+    "opcions": [
+      "Es considera vàlida sempre i quan hi consti el peu de recurs",
+      "Es tracta d’una notificació defectuosa",
+      "Es tracta d’una notificació fora de termini",
+      "Es tracta d’un vici que no produeix efectes"
+    ],
+    "resposta": "Es tracta d’una notificació defectuosa"
+  }
+]
